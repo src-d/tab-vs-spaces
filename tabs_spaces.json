@@ -1,1 +1,3186 @@
-{"Rouge": {"spaces": 169626, "mixed": 253, "tabs": 16726, "files": 1326, "lines": 305460, "bytes": 56531596}, "Web Ontology Language": {"spaces": 373007702, "mixed": 285471, "tabs": 8823497, "files": 33809, "lines": 466615760, "bytes": 30989537857}, "Zimpl": {"spaces": 22693, "mixed": 116, "tabs": 1555, "files": 1968, "lines": 84606, "bytes": 7483556}, "PigLatin": {"spaces": 131243, "mixed": 4126, "tabs": 30963, "files": 14356, "lines": 816935, "bytes": 97556669}, "ColdFusion CFC": {"spaces": 1681075, "mixed": 666779, "tabs": 17807367, "files": 159795, "lines": 24470595, "bytes": 997221952}, "ShellSession": {"spaces": 210, "mixed": 14, "tabs": 2, "files": 124, "lines": 2410, "bytes": 71430}, "F#": {"spaces": 9807528, "mixed": 12136, "tabs": 72480, "files": 111620, "lines": 16002717, "bytes": 842040064}, "PureScript": {"spaces": 335254, "mixed": 5572, "tabs": 12287, "files": 10180, "lines": 804428, "bytes": 25929497}, "Dockerfile": {"spaces": 10007, "mixed": 133, "tabs": 902, "files": 2676, "lines": 58744, "bytes": 2038439}, "XS": {"spaces": 11332963, "mixed": 425882, "tabs": 1719624, "files": 25497, "lines": 17924905, "bytes": 605937341}, "FreeMarker": {"spaces": 8976391, "mixed": 1707361, "tabs": 7342489, "files": 291421, "lines": 25263644, "bytes": 1175972196}, "Papyrus": {"spaces": 73084, "mixed": 2440, "tabs": 234701, "files": 4387, "lines": 1335090, "bytes": 223543990}, "Smarty": {"spaces": 110118392, "mixed": 3577261, "tabs": 48829082, "files": 2157886, "lines": 206002528, "bytes": 9550204321}, "Visual Basic": {"spaces": 139592110, "mixed": 273789, "tabs": 6823168, "files": 853849, "lines": 189233436, "bytes": 9800354927}, "JSON": {"spaces": 12544213121, "mixed": 16174177, "tabs": 1047594143, "files": 54007218, "lines": 14970911389, "bytes": 1165262761126}, "LFE": {"spaces": 52810, "mixed": 678, "tabs": 112, "files": 1668, "lines": 90627, "bytes": 2728397}, "Grammatical Framework": {"spaces": 1162409, "mixed": 13310, "tabs": 72196, "files": 7116, "lines": 2279584, "bytes": 115410498}, "JavaScript": {"spaces": 39465404775, "mixed": 1225062118, "tabs": 8021889591, "files": 265858117, "lines": 61782215265, "bytes": 2460125446995}, "Pascal": {"spaces": 278811946, "mixed": 454321, "tabs": 2968042, "files": 596380, "lines": 362889602, "bytes": 15097175769}, "CoffeeScript": {"spaces": 143255756, "mixed": 173282, "tabs": 8880220, "files": 3134442, "lines": 204905246, "bytes": 7026181473}, "Gentoo Eclass": {"spaces": 8049, "mixed": 1806, "tabs": 423348, "files": 2537, "lines": 786652, "bytes": 23864520}, "TXL": {"spaces": 6035, "mixed": 1506, "tabs": 34803, "files": 506, "lines": 122987, "bytes": 5337936}, "Ioke": {"spaces": 85055, "mixed": 63, "tabs": 728, "files": 1010, "lines": 400070, "bytes": 8751220}, "Scaml": {"spaces": 13914, "mixed": 3, "tabs": 857, "files": 1237, "lines": 23549, "bytes": 713006}, "LOLCODE": {"spaces": 24883, "mixed": 377, "tabs": 19546, "files": 2792, "lines": 86210, "bytes": 4617157}, "Gosu": {"spaces": 298084, "mixed": 67, "tabs": 1657, "files": 2610, "lines": 523870, "bytes": 63566993}, "Brightscript": {"spaces": 368260, "mixed": 11038, "tabs": 186189, "files": 3124, "lines": 2043423, "bytes": 54336081}, "RHTML": {"spaces": 4147796, "mixed": 186517, "tabs": 813672, "files": 300284, "lines": 8057904, "bytes": 284818700}, "Groovy Server Pages": {"spaces": 8563650, "mixed": 720733, "tabs": 8232141, "files": 315834, "lines": 21825019, "bytes": 906648378}, "LilyPond": {"spaces": 3888710, "mixed": 59663, "tabs": 1790915, "files": 43336, "lines": 7503934, "bytes": 210778990}, "Dylan": {"spaces": 1326813, "mixed": 137133, "tabs": 73380, "files": 12122, "lines": 2827122, "bytes": 138236928}, "Redcode": {"spaces": 20665, "mixed": 1142, "tabs": 12408, "files": 768, "lines": 204507, "bytes": 28556685}, "ANTLR": {"spaces": 835552, "mixed": 14079, "tabs": 262568, "files": 10139, "lines": 2845669, "bytes": 68532638}, "Charity": {"spaces": 342739, "mixed": 7464, "tabs": 55920, "files": 5944, "lines": 2764708, "bytes": 268504990}, "HTML+EEX": {"spaces": 515312, "mixed": 2363, "tabs": 22279, "files": 27230, "lines": 739231, "bytes": 24247383}, "Latte": {"spaces": 470838, "mixed": 26806, "tabs": 452486, "files": 37872, "lines": 1376225, "bytes": 53989213}, "MTML": {"spaces": 292609, "mixed": 2456, "tabs": 12673, "files": 7294, "lines": 502330, "bytes": 18377368}, "Unified Parallel C": {"spaces": 13264, "mixed": 1437, "tabs": 6234, "files": 207, "lines": 1078920, "bytes": 16493548}, "Diff": {"spaces": 117084145, "mixed": 34446892, "tabs": 382978, "files": 1884756, "lines": 1151971518, "bytes": 40136392098}, "Clarion": {"spaces": 62402, "mixed": 292, "tabs": 9179, "files": 5854, "lines": 1211637, "bytes": 35719539}, "Nginx": {"spaces": 842, "mixed": 0, "tabs": 1, "files": 25, "lines": 1376, "bytes": 40613}, "Tcsh": {"spaces": 821187, "mixed": 21114, "tabs": 193807, "files": 35943, "lines": 2613803, "bytes": 269091829}, "Turtle": {"spaces": 130937293, "mixed": 1522439, "tabs": 51184011, "files": 138220, "lines": 320071620, "bytes": 18570911626}, "Cirru": {"spaces": 34571, "mixed": 0, "tabs": 0, "files": 1486, "lines": 53916, "bytes": 1381245}, "Rust": {"spaces": 18425261, "mixed": 57279, "tabs": 973863, "files": 145582, "lines": 27778756, "bytes": 984204158}, "HTML+ECR": {"spaces": 5351, "mixed": 0, "tabs": 64, "files": 345, "lines": 7558, "bytes": 279106}, "NumPy": {"spaces": 4013, "mixed": 15, "tabs": 3951, "files": 31, "lines": 1422089, "bytes": 432523520}, "Markdown": {"spaces": 1516642839, "mixed": 6952068, "tabs": 54411715, "files": 52816947, "lines": 6726086549, "bytes": 236103850692}, "Max": {"spaces": 2686733, "mixed": 50341, "tabs": 137802594, "files": 60742, "lines": 181282328, "bytes": 7794925619}, "AsciiDoc": {"spaces": 2320733, "mixed": 26954, "tabs": 927594, "files": 92049, "lines": 19908218, "bytes": 788899778}, "Propeller Spin": {"spaces": 1045876, "mixed": 7327, "tabs": 41779, "files": 7496, "lines": 2878256, "bytes": 175044048}, "Lua": {"spaces": 138206524, "mixed": 4275634, "tabs": 200958879, "files": 1927302, "lines": 482424451, "bytes": 16878039970}, "xBase": {"spaces": 2748553, "mixed": 302442, "tabs": 2120358, "files": 34895, "lines": 16649718, "bytes": 540225520}, "Oxygene": {"spaces": 15068, "mixed": 0, "tabs": 0, "files": 130, "lines": 15433, "bytes": 688759}, "Apex": {"spaces": 15457811, "mixed": 569743, "tabs": 2072096, "files": 84443, "lines": 39843964, "bytes": 1552228958}, "Clean": {"spaces": 204564, "mixed": 8323, "tabs": 91247, "files": 5635, "lines": 592782, "bytes": 50624760}, "Scala": {"spaces": 136517347, "mixed": 1015692, "tabs": 3732521, "files": 2055257, "lines": 191061671, "bytes": 6944424375}, "Swift": {"spaces": 170559272, "mixed": 99819, "tabs": 7123142, "files": 2173071, "lines": 239564569, "bytes": 8573663238}, "nesC": {"spaces": 27714224, "mixed": 822831, "tabs": 5167325, "files": 392365, "lines": 205175201, "bytes": 53501551411}, "FORTRAN": {"spaces": 148190457, "mixed": 1755814, "tabs": 3597357, "files": 424595, "lines": 231116933, "bytes": 8355660367}, "HTML": {"spaces": 7617453058, "mixed": 266659815, "tabs": 3680711382, "files": 87698158, "lines": 23210131602, "bytes": 1391439515764}, "Logos": {"spaces": 525985903, "mixed": 1650047, "tabs": 22339617, "files": 83474, "lines": 729930121, "bytes": 28103466238}, "Clojure": {"spaces": 33101031, "mixed": 190362, "tabs": 185136, "files": 446590, "lines": 46872680, "bytes": 2312903440}, "ColdFusion": {"spaces": 2758419, "mixed": 951348, "tabs": 16589607, "files": 276441, "lines": 27081748, "bytes": 1086801530}, "JSONLD": {"spaces": 3949789, "mixed": 177617, "tabs": 764566, "files": 7950, "lines": 5079013, "bytes": 242499691}, "Forth": {"spaces": 1329244, "mixed": 34102, "tabs": 287106, "files": 20783, "lines": 5759747, "bytes": 273251508}, "Verilog": {"spaces": 110339547, "mixed": 3332353, "tabs": 20181147, "files": 319696, "lines": 191463691, "bytes": 7450193560}, "ObjDump": {"spaces": 10331362, "mixed": 18857, "tabs": 172670, "files": 456, "lines": 11850125, "bytes": 509795733}, "RAML": {"spaces": 5695220, "mixed": 348334, "tabs": 3139, "files": 6805, "lines": 6116594, "bytes": 276284017}, "AutoIt": {"spaces": 530423, "mixed": 236719, "tabs": 5674387, "files": 41675, "lines": 11289199, "bytes": 659568183}, "GCC Machine Description": {"spaces": 127654, "mixed": 26462, "tabs": 15059, "files": 256, "lines": 251129, "bytes": 7930275}, "Idris": {"spaces": 126436, "mixed": 738, "tabs": 2338, "files": 7850, "lines": 498953, "bytes": 14633594}, "SMT": {"spaces": 441016, "mixed": 11823, "tabs": 415289, "files": 6290, "lines": 8336567, "bytes": 831692083}, "Csound Score": {"spaces": 8583, "mixed": 4252, "tabs": 50402, "files": 3672, "lines": 4310950, "bytes": 246151243}, "MUF": {"spaces": 346600, "mixed": 2135, "tabs": 30350, "files": 1415, "lines": 9061576, "bytes": 1837260923}, "Boo": {"spaces": 368796, "mixed": 2283, "tabs": 2039204, "files": 8784, "lines": 3330397, "bytes": 137844894}, "D": {"spaces": 2461614, "mixed": 62057, "tabs": 1842445, "files": 35988, "lines": 6207528, "bytes": 218183784}, "REALbasic": {"spaces": 192478, "mixed": 377272, "tabs": 319073, "files": 5072, "lines": 1058362, "bytes": 110081752}, "Arc": {"spaces": 1545472, "mixed": 92521, "tabs": 186877, "files": 5548, "lines": 7428063, "bytes": 1030000093}, "Literate Agda": {"spaces": 60025, "mixed": 10, "tabs": 22, "files": 930, "lines": 252782, "bytes": 9335047}, "ApacheConf": {"spaces": 143, "mixed": 7, "tabs": 78, "files": 8, "lines": 303, "bytes": 8394}, "PLpgSQL": {"spaces": 33314978, "mixed": 451930, "tabs": 10623061, "files": 101581, "lines": 204803417, "bytes": 43395101155}, "Ada": {"spaces": 10789334, "mixed": 80359, "tabs": 299175, "files": 85143, "lines": 16035371, "bytes": 681404462}, "LabVIEW": {"spaces": 447339, "mixed": 68, "tabs": 1823865, "files": 5185, "lines": 2502552, "bytes": 293957277}, "mupad": {"spaces": 101126, "mixed": 1497, "tabs": 23495, "files": 12302, "lines": 6749984, "bytes": 2202956582}, "Gnuplot": {"spaces": 4963092, "mixed": 8716, "tabs": 2395572, "files": 142722, "lines": 167927814, "bytes": 4240623074}, "LoomScript": {"spaces": 71737, "mixed": 10091, "tabs": 39475, "files": 1096, "lines": 138607, "bytes": 4358205}, "Xojo": {"spaces": 326692, "mixed": 678163, "tabs": 934100, "files": 6144, "lines": 2082867, "bytes": 57894571}, "Volt": {"spaces": 744535, "mixed": 40052, "tabs": 253736, "files": 21650, "lines": 1364116, "bytes": 53568474}, "Tea": {"spaces": 57779, "mixed": 313, "tabs": 14346, "files": 1453, "lines": 177408, "bytes": 7056328}, "Elm": {"spaces": 3253959, "mixed": 1210, "tabs": 9459, "files": 55206, "lines": 8231526, "bytes": 258033464}, "M": {"spaces": 1438755, "mixed": 104137, "tabs": 301135, "files": 8385, "lines": 10167143, "bytes": 1684209815}, "Mercury": {"spaces": 232998, "mixed": 1429, "tabs": 52558, "files": 1416, "lines": 498899, "bytes": 21212855}, "eC": {"spaces": 612467, "mixed": 7205, "tabs": 199182, "files": 19239, "lines": 2225902, "bytes": 244319294}, "D-ObjDump": {"spaces": 0, "mixed": 0, "tabs": 0, "files": 1, "lines": 1, "bytes": 3}, "Xtend": {"spaces": 692593, "mixed": 180981, "tabs": 1801254, "files": 42567, "lines": 3548205, "bytes": 117306541}, "ASP": {"spaces": 66305219, "mixed": 2707035, "tabs": 64214785, "files": 1332462, "lines": 168976693, "bytes": 7457126195}, "Filterscript": {"spaces": 49539, "mixed": 10, "tabs": 86, "files": 1720, "lines": 74328, "bytes": 2475417}, "Lean": {"spaces": 131650, "mixed": 75, "tabs": 219, "files": 1770, "lines": 257121, "bytes": 15870335}, "Modula-2": {"spaces": 842601, "mixed": 31813, "tabs": 228857, "files": 5010, "lines": 1458764, "bytes": 69041526}, "SAS": {"spaces": 1659860, "mixed": 71685, "tabs": 837046, "files": 20819, "lines": 12102754, "bytes": 237275164}, "PHP": {"spaces": 16634617703, "mixed": 1518632337, "tabs": 8026652875, "files": 170506259, "lines": 33019250748, "bytes": 1120717167099}, "Scilab": {"spaces": 3093433, "mixed": 16419, "tabs": 235205, "files": 145415, "lines": 60749355, "bytes": 1428541374}, "Ninja": {"spaces": 140643, "mixed": 4, "tabs": 44, "files": 1099, "lines": 305012, "bytes": 36698978}, "Slim": {"spaces": 4733279, "mixed": 41385, "tabs": 236860, "files": 278160, "lines": 6579027, "bytes": 277442974}, "Harbour": {"spaces": 95205, "mixed": 1560, "tabs": 11193, "files": 2300, "lines": 194534, "bytes": 32211219}, "Vala": {"spaces": 5043090, "mixed": 229867, "tabs": 5256810, "files": 50748, "lines": 12047600, "bytes": 425556873}, "Racket": {"spaces": 12626994, "mixed": 228733, "tabs": 70167, "files": 107587, "lines": 27232497, "bytes": 1052645492}, "Terra": {"spaces": 52268, "mixed": 2484, "tabs": 28879, "files": 761, "lines": 130732, "bytes": 3733918}, "C": {"spaces": 7167631242, "mixed": 431346249, "tabs": 3080943563, "files": 49335491, "lines": 17971047145, "bytes": 635895092486}, "Linux Kernel Module": {"spaces": 16963537, "mixed": 86851, "tabs": 1124684, "files": 69932, "lines": 188210981, "bytes": 6600818381}, "Moocode": {"spaces": 13340, "mixed": 136, "tabs": 4993, "files": 531, "lines": 7807876, "bytes": 1377195221}, "Crystal": {"spaces": 703445, "mixed": 1114, "tabs": 23860, "files": 11852, "lines": 1184234, "bytes": 68363572}, "Monkey": {"spaces": 206099, "mixed": 15119, "tabs": 780291, "files": 6306, "lines": 1244081, "bytes": 35449279}, "JSON5": {"spaces": 443343, "mixed": 33, "tabs": 3193, "files": 106499, "lines": 618674, "bytes": 12024187}, "XProc": {"spaces": 282187, "mixed": 8599, "tabs": 105460, "files": 4639, "lines": 3762481, "bytes": 298640073}, "Brainfuck": {"spaces": 727705, "mixed": 5677, "tabs": 348217, "files": 17867, "lines": 18307288, "bytes": 2699405439}, "C2hs Haskell": {"spaces": 258555, "mixed": 684, "tabs": 9113, "files": 3398, "lines": 849946, "bytes": 37929417}, "GLSL": {"spaces": 28181859, "mixed": 2248210, "tabs": 46609966, "files": 986813, "lines": 140325501, "bytes": 5656486779}, "RMarkdown": {"spaces": 4470210, "mixed": 25253, "tabs": 123588, "files": 144840, "lines": 27080473, "bytes": 1084954383}, "Textile": {"spaces": 6008586, "mixed": 38842, "tabs": 157283, "files": 139326, "lines": 41794636, "bytes": 1866853864}, "Gentoo Ebuild": {"spaces": 101454, "mixed": 41295, "tabs": 5475879, "files": 154869, "lines": 11120003, "bytes": 302946904}, "XSLT": {"spaces": 97269344, "mixed": 3992180, "tabs": 29662596, "files": 557987, "lines": 162048344, "bytes": 6633499499}, "Turing": {"spaces": 2005495, "mixed": 47356, "tabs": 81469, "files": 3776, "lines": 4727368, "bytes": 289089896}, "Parrot Internal Representation": {"spaces": 1393449, "mixed": 633, "tabs": 23340, "files": 3393, "lines": 3195277, "bytes": 136027560}, "HTML+PHP": {"spaces": 202679306, "mixed": 1844925, "tabs": 10432021, "files": 3142653, "lines": 262863234, "bytes": 12643842837}, "Eagle": {"spaces": 29733658, "mixed": 169176, "tabs": 5989428, "files": 182928, "lines": 561604097, "bytes": 40038264919}, "Omgrofl": {"spaces": 164, "mixed": 0, "tabs": 0, "files": 46, "lines": 1192, "bytes": 14623}, "Limbo": {"spaces": 148958, "mixed": 33987, "tabs": 4706273, "files": 17708, "lines": 7138065, "bytes": 179729742}, "Puppet": {"spaces": 65785308, "mixed": 85742, "tabs": 1036138, "files": 1378762, "lines": 117836545, "bytes": 4421479733}, "SystemVerilog": {"spaces": 7445591, "mixed": 322967, "tabs": 2304698, "files": 69237, "lines": 17277115, "bytes": 785843045}, "TeX": {"spaces": 145885272, "mixed": 2144254, "tabs": 38156536, "files": 1534038, "lines": 531984293, "bytes": 27868184482}, "ATS": {"spaces": 511112, "mixed": 1039, "tabs": 8283, "files": 10149, "lines": 1919924, "bytes": 45106004}, "Shell": {"spaces": 172645855, "mixed": 101514456, "tabs": 85473405, "files": 5371489, "lines": 644589791, "bytes": 26924112845}, "Oz": {"spaces": 578307, "mixed": 274801, "tabs": 54446, "files": 6887, "lines": 1238315, "bytes": 34666118}, "Ren'Py": {"spaces": 527717, "mixed": 18, "tabs": 201, "files": 3990, "lines": 1372948, "bytes": 74398089}, "ooc": {"spaces": 173753, "mixed": 2392, "tabs": 65356, "files": 3691, "lines": 346039, "bytes": 10247211}, "desktop": {"spaces": 15340, "mixed": 240, "tabs": 1558, "files": 99490, "lines": 3488894, "bytes": 145063759}, "ChucK": {"spaces": 2516598, "mixed": 22489, "tabs": 116115, "files": 213661, "lines": 7396206, "bytes": 179537240}, "Nix": {"spaces": 3114810, "mixed": 4646, "tabs": 27644, "files": 36941, "lines": 4165766, "bytes": 256142509}, "Yacc": {"spaces": 12227578, "mixed": 2073549, "tabs": 8373911, "files": 61787, "lines": 36752124, "bytes": 1439509862}, "Wavefront Object": {"spaces": 18553769, "mixed": 20558, "tabs": 1553934, "files": 797299, "lines": 6813250403, "bytes": 365828258941}, "Cap'n Proto": {"spaces": 49057, "mixed": 16, "tabs": 2756, "files": 806, "lines": 83626, "bytes": 3094362}, "Dogescript": {"spaces": 6194, "mixed": 0, "tabs": 462, "files": 379, "lines": 21006, "bytes": 5779745}, "Jade": {"spaces": 25592787, "mixed": 22030, "tabs": 5320658, "files": 1123816, "lines": 36597666, "bytes": 1476576694}, "YANG": {"spaces": 2829353, "mixed": 29489, "tabs": 43777, "files": 13474, "lines": 3214624, "bytes": 97672985}, "Component Pascal": {"spaces": 7451677, "mixed": 65817, "tabs": 1963947, "files": 16377, "lines": 17503311, "bytes": 1388377025}, "IDL": {"spaces": 6651, "mixed": 54, "tabs": 1453, "files": 1576, "lines": 1137524, "bytes": 2582589793}, "Pan": {"spaces": 69355, "mixed": 1964, "tabs": 11547, "files": 4196, "lines": 299942, "bytes": 17584778}, "Literate CoffeeScript": {"spaces": 358037, "mixed": 261, "tabs": 13090, "files": 6761, "lines": 709896, "bytes": 22857589}, "Stylus": {"spaces": 23760507, "mixed": 35682, "tabs": 4224993, "files": 580898, "lines": 44755789, "bytes": 951337084}, "Module Management System": {"spaces": 109166, "mixed": 7077, "tabs": 72030, "files": 6289, "lines": 630809, "bytes": 35818207}, "ECL": {"spaces": 227061, "mixed": 2004, "tabs": 79027, "files": 1826, "lines": 426353, "bytes": 66899999}, "Cycript": {"spaces": 11751, "mixed": 274, "tabs": 9416, "files": 522, "lines": 1041236, "bytes": 47130305}, "Grace": {"spaces": 92038, "mixed": 3, "tabs": 131, "files": 1251, "lines": 127892, "bytes": 4021968}, "HCL": {"spaces": 642777, "mixed": 14098, "tabs": 218856, "files": 25406, "lines": 4350783, "bytes": 321107772}, "POV-Ray SDL": {"spaces": 7401161, "mixed": 435681, "tabs": 6028942, "files": 6563, "lines": 37771687, "bytes": 2578547643}, "Slash": {"spaces": 665197, "mixed": 35957, "tabs": 353596, "files": 16580, "lines": 4238812, "bytes": 773356680}, "PicoLisp": {"spaces": 425686, "mixed": 27164, "tabs": 57647, "files": 16671, "lines": 1881947, "bytes": 204285518}, "NewLisp": {"spaces": 154889, "mixed": 21442, "tabs": 82112, "files": 6016, "lines": 13938044, "bytes": 297320878}, "Emacs Lisp": {"spaces": 222882750, "mixed": 34743335, "tabs": 11154392, "files": 898350, "lines": 435360832, "bytes": 17376953735}, "DNS Zone": {"spaces": 67787, "mixed": 851, "tabs": 118570, "files": 4932, "lines": 37903277, "bytes": 1202751157}, "Pod": {"spaces": 5168882, "mixed": 99609, "tabs": 734764, "files": 100565, "lines": 42256793, "bytes": 2010127242}, "CSS": {"spaces": 4148939620, "mixed": 25477406, "tabs": 1613949600, "files": 32945088, "lines": 11400964955, "bytes": 363920837065}, "HLSL": {"spaces": 1116578, "mixed": 48549, "tabs": 1103957, "files": 42725, "lines": 4070578, "bytes": 131137483}, "Scheme": {"spaces": 27083652, "mixed": 3746075, "tabs": 4179492, "files": 278871, "lines": 63214713, "bytes": 2733542475}, "Java": {"spaces": 6676256710, "mixed": 459557503, "tabs": 2608053081, "files": 84332089, "lines": 12303345517, "bytes": 422150508563}, "Bison": {"spaces": 622267, "mixed": 3577, "tabs": 9845, "files": 142, "lines": 727378, "bytes": 32401669}, "Handlebars": {"spaces": 12188015, "mixed": 270747, "tabs": 2321844, "files": 674591, "lines": 20613391, "bytes": 797403496}, "Ecere Projects": {"spaces": 6252, "mixed": 0, "tabs": 0, "files": 60, "lines": 12692, "bytes": 302099}, "PogoScript": {"spaces": 75023, "mixed": 24, "tabs": 77, "files": 1871, "lines": 100453, "bytes": 3325463}, "LLVM": {"spaces": 8574788, "mixed": 17245, "tabs": 442913, "files": 34888, "lines": 18421482, "bytes": 1142804983}, "Inform 7": {"spaces": 98444, "mixed": 5974, "tabs": 747881, "files": 2712, "lines": 1665731, "bytes": 258751713}, "Prolog": {"spaces": 2868245, "mixed": 6920791, "tabs": 2802393, "files": 69210, "lines": 34978139, "bytes": 1412435954}, "Smali": {"spaces": 50183252, "mixed": 882, "tabs": 109919, "files": 161219, "lines": 79959763, "bytes": 2110054840}, "RDoc": {"spaces": 25494061, "mixed": 42554, "tabs": 83732, "files": 770999, "lines": 81567950, "bytes": 2798140300}, "Liquid": {"spaces": 4094788, "mixed": 107365, "tabs": 527933, "files": 56065, "lines": 6970638, "bytes": 253706186}, "Erlang": {"spaces": 23619135, "mixed": 4808293, "tabs": 5860234, "files": 317594, "lines": 63484682, "bytes": 2294800775}, "LSL": {"spaces": 1749357, "mixed": 15815, "tabs": 96375, "files": 16944, "lines": 2857733, "bytes": 128416604}, "Python": {"spaces": 4584385575, "mixed": 6524654, "tabs": 203698844, "files": 37394748, "lines": 6832098624, "bytes": 268850897734}, "Pickle": {"spaces": 3604831, "mixed": 112976, "tabs": 794786, "files": 53364, "lines": 2448675235, "bytes": 102614482186}, "SQL": {"spaces": 204613393, "mixed": 2418063, "tabs": 185398421, "files": 2524556, "lines": 2211693117, "bytes": 347601154297}, "Lasso": {"spaces": 6539784, "mixed": 5562, "tabs": 1616392, "files": 19153, "lines": 16579653, "bytes": 2123045117}, "Sage": {"spaces": 288603, "mixed": 2387, "tabs": 49048, "files": 5179, "lines": 1058919, "bytes": 120044066}, "Chapel": {"spaces": 103754, "mixed": 3234, "tabs": 27124, "files": 1305, "lines": 201801, "bytes": 6109324}, "Isabelle": {"spaces": 2039735, "mixed": 61975, "tabs": 22227, "files": 9222, "lines": 3558606, "bytes": 148828252}, "Raw token data": {"spaces": 7575641, "mixed": 19895, "tabs": 16311971, "files": 66391, "lines": 423539704, "bytes": 57563568926}, "NetLogo": {"spaces": 1152115, "mixed": 208, "tabs": 555, "files": 5263, "lines": 4790300, "bytes": 127696079}, "Matlab": {"spaces": 126191800, "mixed": 1218491, "tabs": 9335875, "files": 2626962, "lines": 298352316, "bytes": 10737844835}, "wisp": {"spaces": 27629, "mixed": 179, "tabs": 1284, "files": 399, "lines": 76234, "bytes": 8592720}, "JSONiq": {"spaces": 23233, "mixed": 26, "tabs": 494, "files": 725, "lines": 33637, "bytes": 1383830}, "Factor": {"spaces": 829145, "mixed": 39, "tabs": 271, "files": 25535, "lines": 2309792, "bytes": 77121099}, "PureBasic": {"spaces": 1610675, "mixed": 28015, "tabs": 2661837, "files": 178159, "lines": 137830700, "bytes": 17384106446}, "GAMS": {"spaces": 152564, "mixed": 4760, "tabs": 76446, "files": 1834, "lines": 881736, "bytes": 34499235}, "G-code": {"spaces": 8351702, "mixed": 1578142, "tabs": 38586217, "files": 51178, "lines": 817114891, "bytes": 24149166752}, "JSX": {"spaces": 18787472, "mixed": 473828, "tabs": 3373938, "files": 450330, "lines": 30265701, "bytes": 987201506}, "API Blueprint": {"spaces": 2112041, "mixed": 5509, "tabs": 19771, "files": 4664, "lines": 3128968, "bytes": 118359729}, "PLSQL": {"spaces": 22857277, "mixed": 607085, "tabs": 4764946, "files": 59710, "lines": 162012500, "bytes": 13396850626}, "XQuery": {"spaces": 3510050, "mixed": 80739, "tabs": 182118, "files": 45184, "lines": 5952314, "bytes": 252313772}, "Dart": {"spaces": 96325472, "mixed": 51533, "tabs": 387200, "files": 379451, "lines": 123733167, "bytes": 4328871559}, "OpenEdge ABL": {"spaces": 23767194, "mixed": 255712, "tabs": 1875334, "files": 331494, "lines": 1868449018, "bytes": 49509085492}, "TLA": {"spaces": 274511, "mixed": 459, "tabs": 1035, "files": 2767, "lines": 507197, "bytes": 19019459}, "C++": {"spaces": 5458056688, "mixed": 106324309, "tabs": 1862970844, "files": 41508339, "lines": 11562826925, "bytes": 398855381527}, "Click": {"spaces": 107547, "mixed": 13624, "tabs": 32886, "files": 5001, "lines": 15684224, "bytes": 444906647}, "Pony": {"spaces": 120945, "mixed": 124, "tabs": 459, "files": 1582, "lines": 164268, "bytes": 6941533}, "GAS": {"spaces": 96432201, "mixed": 5510927, "tabs": 640471118, "files": 1205141, "lines": 1366740539, "bytes": 41913547206}, "CSV": {"spaces": 157919583, "mixed": 3651283, "tabs": 38598637, "files": 4548878, "lines": 22940644957, "bytes": 1915608700242}, "NetLinx": {"spaces": 171142, "mixed": 32289, "tabs": 193587, "files": 2394, "lines": 880342, "bytes": 60964607}, "MAXScript": {"spaces": 3204271, "mixed": 27190, "tabs": 1201053, "files": 14064, "lines": 13642379, "bytes": 6540840474}, "Darcs Patch": {"spaces": 364121, "mixed": 31542, "tabs": 2725, "files": 4267, "lines": 2023879, "bytes": 69046941}, "Jupyter Notebook": {"spaces": 717762629, "mixed": 1039, "tabs": 5188, "files": 363970, "lines": 719277863, "bytes": 142679569126}, "Fantom": {"spaces": 181931, "mixed": 403, "tabs": 8438, "files": 2097, "lines": 256975, "bytes": 6781837}, "GraphQL": {"spaces": 16156, "mixed": 82, "tabs": 115, "files": 414, "lines": 28271, "bytes": 505898}, "APL": {"spaces": 100883, "mixed": 1683, "tabs": 30604, "files": 3012, "lines": 1042254, "bytes": 62568399}, "Perl": {"spaces": 181687288, "mixed": 8920425, "tabs": 67965364, "files": 2339616, "lines": 669297360, "bytes": 23777656437}, "NSIS": {"spaces": 4685466, "mixed": 33721, "tabs": 1484249, "files": 58169, "lines": 11817701, "bytes": 427327543}, "Hy": {"spaces": 56178, "mixed": 1310, "tabs": 101054, "files": 2301, "lines": 260362, "bytes": 18503085}, "Haml": {"spaces": 22526145, "mixed": 34254, "tabs": 1219930, "files": 1276919, "lines": 30042705, "bytes": 1131159332}, "Self": {"spaces": 394153, "mixed": 4767, "tabs": 23416, "files": 1061, "lines": 1378975, "bytes": 254544435}, "Groff": {"spaces": 147203053, "mixed": 13759203, "tabs": 48821506, "files": 1304413, "lines": 1271144995, "bytes": 154609560080}, "Mirah": {"spaces": 69553, "mixed": 190, "tabs": 18261, "files": 1078, "lines": 128750, "bytes": 6623319}, "RobotFramework": {"spaces": 400494, "mixed": 195, "tabs": 7809, "files": 11182, "lines": 775635, "bytes": 36226313}, "Public Key": {"spaces": 89210, "mixed": 288, "tabs": 43858, "files": 96892, "lines": 7022377, "bytes": 1888249591}, "DM": {"spaces": 610570, "mixed": 319856, "tabs": 80770788, "files": 522537, "lines": 111007692, "bytes": 3650241910}, "C#": {"spaces": 2581644849, "mixed": 17530705, "tabs": 762662264, "files": 32703486, "lines": 4210596283, "bytes": 156893802339}, "BitBake": {"spaces": 171142, "mixed": 5641, "tabs": 85833, "files": 63200, "lines": 1222665, "bytes": 42363029}, "SPARQL": {"spaces": 183086, "mixed": 7615, "tabs": 31718, "files": 47384, "lines": 894291, "bytes": 121793830}, "CartoCSS": {"spaces": 608296, "mixed": 5887, "tabs": 9752, "files": 6655, "lines": 1256018, "bytes": 40764439}, "Lex": {"spaces": 2695028, "mixed": 428259, "tabs": 2157261, "files": 49919, "lines": 85101336, "bytes": 3400997605}, "Literate Haskell": {"spaces": 1727689, "mixed": 80748, "tabs": 130195, "files": 24048, "lines": 6805639, "bytes": 264613419}, "C-ObjDump": {"spaces": 12, "mixed": 0, "tabs": 0, "files": 2, "lines": 22, "bytes": 660}, "EQ": {"spaces": 39214, "mixed": 1227, "tabs": 57529, "files": 6129, "lines": 307897, "bytes": 64801825}, "Stata": {"spaces": 1292980, "mixed": 322377, "tabs": 2595381, "files": 35907, "lines": 11274429, "bytes": 624308101}, "Augeas": {"spaces": 170146, "mixed": 2181, "tabs": 3716, "files": 2018, "lines": 251088, "bytes": 7276527}, "DTrace": {"spaces": 1396606, "mixed": 114098, "tabs": 942860, "files": 12873, "lines": 6866153, "bytes": 210648063}, "VCL": {"spaces": 472515, "mixed": 2907, "tabs": 28084, "files": 5014, "lines": 710212, "bytes": 24788036}, "Alloy": {"spaces": 349049, "mixed": 2587, "tabs": 1007843, "files": 5465, "lines": 3322765, "bytes": 517733217}, "OCaml": {"spaces": 39719819, "mixed": 1554919, "tabs": 3352899, "files": 310364, "lines": 66243092, "bytes": 2686938412}, "GAP": {"spaces": 1118241, "mixed": 8910, "tabs": 1919517, "files": 12727, "lines": 5110678, "bytes": 350513725}, "SQF": {"spaces": 7588691, "mixed": 531282, "tabs": 25607280, "files": 633113, "lines": 59206774, "bytes": 2079945264}, "SuperCollider": {"spaces": 7321642, "mixed": 801667, "tabs": 9219856, "files": 74702, "lines": 26081103, "bytes": 1323643002}, "SCSS": {"spaces": 661234184, "mixed": 3647229, "tabs": 128180045, "files": 14367402, "lines": 7987510958, "bytes": 55087461126}, "Processing": {"spaces": 41162753, "mixed": 401582, "tabs": 3090514, "files": 508470, "lines": 65414995, "bytes": 1982006244}, "Nemerle": {"spaces": 460208, "mixed": 7027, "tabs": 79531, "files": 6532, "lines": 2201589, "bytes": 276799485}, "SQLPL": {"spaces": 613663, "mixed": 24872, "tabs": 346385, "files": 5030, "lines": 10484345, "bytes": 1804866083}, "MoonScript": {"spaces": 544730, "mixed": 1498, "tabs": 143563, "files": 11652, "lines": 964660, "bytes": 27484861}, "Graphviz (DOT)": {"spaces": 17390500, "mixed": 105541, "tabs": 80158073, "files": 116713, "lines": 203619885, "bytes": 8585890144}, "Nit": {"spaces": 6480, "mixed": 398, "tabs": 45899, "files": 2699, "lines": 81510, "bytes": 3613851}, "Twig": {"spaces": 41642186, "mixed": 702597, "tabs": 3695890, "files": 1346143, "lines": 63541711, "bytes": 2600296589}, "Nu": {"spaces": 57476, "mixed": 351, "tabs": 2190, "files": 1062, "lines": 100749, "bytes": 5878265}, "LookML": {"spaces": 656617, "mixed": 0, "tabs": 0, "files": 8934, "lines": 920372, "bytes": 21478053}, "World of Warcraft Addon Data": {"spaces": 37299, "mixed": 49, "tabs": 63, "files": 28834, "lines": 550980, "bytes": 16744866}, "STON": {"spaces": 11714, "mixed": 425, "tabs": 1919, "files": 680, "lines": 16533, "bytes": 840713}, "AGS Script": {"spaces": 154269, "mixed": 2299, "tabs": 219040, "files": 2924, "lines": 617509, "bytes": 34687529}, "HTTP": {"spaces": 480161, "mixed": 6626, "tabs": 622550, "files": 309136, "lines": 47055321, "bytes": 12274458439}, "OpenCL": {"spaces": 4986447, "mixed": 590127, "tabs": 4224270, "files": 45694, "lines": 13567286, "bytes": 552047579}, "BlitzBasic": {"spaces": 110855, "mixed": 12948, "tabs": 339850, "files": 3244, "lines": 1906918, "bytes": 357129211}, "Mako": {"spaces": 1844659, "mixed": 35216, "tabs": 201829, "files": 44625, "lines": 3208580, "bytes": 139184989}, "QML": {"spaces": 20837948, "mixed": 58154, "tabs": 433276, "files": 175230, "lines": 26289671, "bytes": 883131260}, "Inno Setup": {"spaces": 461967, "mixed": 15646, "tabs": 385525, "files": 23571, "lines": 2621590, "bytes": 128613228}, "HTML+ERB": {"spaces": 149094549, "mixed": 4752171, "tabs": 22845048, "files": 10348129, "lines": 305177267, "bytes": 10420298964}, "QMake": {"spaces": 1297021, "mixed": 3312, "tabs": 252915, "files": 80521, "lines": 6865393, "bytes": 2907502279}, "Stan": {"spaces": 188250, "mixed": 2298, "tabs": 16496, "files": 3852, "lines": 1435003, "bytes": 19954027}, "INI": {"spaces": 65948900, "mixed": 401966, "tabs": 16415074, "files": 8510020, "lines": 855182082, "bytes": 31683827649}, "KiCad": {"spaces": 41997436, "mixed": 0, "tabs": 0, "files": 8159, "lines": 42574291, "bytes": 3077156187}, "Hack": {"spaces": 176297, "mixed": 8887, "tabs": 53118, "files": 4639, "lines": 319296, "bytes": 8800769}, "Elixir": {"spaces": 10080411, "mixed": 22998, "tabs": 693575, "files": 332671, "lines": 16788795, "bytes": 956363136}, "Golo": {"spaces": 42302, "mixed": 979, "tabs": 6542, "files": 1616, "lines": 88016, "bytes": 2258699}, "TOML": {"spaces": 195457, "mixed": 2472, "tabs": 49469, "files": 51107, "lines": 1027993, "bytes": 41660694}, "UrWeb": {"spaces": 67544, "mixed": 1623, "tabs": 3019, "files": 1583, "lines": 453394, "bytes": 26515404}, "ABAP": {"spaces": 422437, "mixed": 99, "tabs": 562, "files": 2849, "lines": 701942, "bytes": 25847836}, "PostScript": {"spaces": 168900707, "mixed": 13860980, "tabs": 277893793, "files": 488193, "lines": 4795250127, "bytes": 252521006006}, "Objective-J": {"spaces": 8193224, "mixed": 46202, "tabs": 400447, "files": 12893, "lines": 29725245, "bytes": 1420837751}, "Thrift": {"spaces": 1242027, "mixed": 11632, "tabs": 58880, "files": 18948, "lines": 2103596, "bytes": 63373980}, "Sass": {"spaces": 19161681, "mixed": 11508, "tabs": 7327894, "files": 540467, "lines": 39627434, "bytes": 917107753}, "HTML+Django": {"spaces": 31410198, "mixed": 267683, "tabs": 2661316, "files": 256425, "lines": 43126722, "bytes": 1964955953}, "Io": {"spaces": 150558, "mixed": 4303, "tabs": 142913, "files": 8767, "lines": 1778512, "bytes": 125860169}, "Cool": {"spaces": 725569, "mixed": 69481, "tabs": 112888, "files": 9947, "lines": 2379088, "bytes": 86795054}, "Jasmin": {"spaces": 3302921, "mixed": 8578, "tabs": 258719, "files": 35970, "lines": 8624258, "bytes": 693222417}, "Eiffel": {"spaces": 2202888, "mixed": 144322, "tabs": 9111910, "files": 60467, "lines": 29485446, "bytes": 2792187907}, "Parrot Assembly": {"spaces": 6023, "mixed": 118, "tabs": 14799, "files": 935, "lines": 48097, "bytes": 957022}, "SRecode Template": {"spaces": 184775, "mixed": 4417, "tabs": 11150, "files": 35634, "lines": 50489127, "bytes": 1088268585}, "Python traceback": {"spaces": 500, "mixed": 0, "tabs": 0, "files": 55, "lines": 663, "bytes": 32914}, "Cpp-ObjDump": {"spaces": 0, "mixed": 0, "tabs": 0, "files": 1, "lines": 1, "bytes": 3}, "Text": {"spaces": 4646554902, "mixed": 75875293, "tabs": 784262062, "files": 39775836, "lines": 64180637030, "bytes": 3612778221086}, "DIGITAL Command Language": {"spaces": 1285883, "mixed": 97577, "tabs": 496481, "files": 44648, "lines": 17166558, "bytes": 1337158050}, "MediaWiki": {"spaces": 3928069, "mixed": 32193, "tabs": 302706, "files": 125383, "lines": 23510154, "bytes": 865078527}, "ActionScript": {"spaces": 146934080, "mixed": 64344335, "tabs": 434395009, "files": 4081711, "lines": 697372832, "bytes": 25845165144}, "UnrealScript": {"spaces": 538935, "mixed": 35277, "tabs": 1127203, "files": 21221, "lines": 3600519, "bytes": 174235846}, "Wavefront Material": {"spaces": 331747, "mixed": 34766, "tabs": 868634, "files": 99036, "lines": 5608795, "bytes": 136109299}, "COBOL": {"spaces": 841452, "mixed": 12758, "tabs": 137982, "files": 10893, "lines": 3838753, "bytes": 279253560}, "M4": {"spaces": 166847359, "mixed": 33689254, "tabs": 28274769, "files": 533010, "lines": 408678564, "bytes": 14579034248}, "Modelica": {"spaces": 13035503, "mixed": 168080, "tabs": 765886, "files": 9638599, "lines": 272014739, "bytes": 98948646363}, "SVG": {"spaces": 1366724862, "mixed": 9541493, "tabs": 335513947, "files": 8855646, "lines": 3870777314, "bytes": 573537413437}, "Opa": {"spaces": 190859, "mixed": 2021, "tabs": 10890, "files": 1383, "lines": 275319, "bytes": 11507111}, "VimL": {"spaces": 108398269, "mixed": 966723, "tabs": 20145242, "files": 1096661, "lines": 244413571, "bytes": 9240090775}, "Cucumber": {"spaces": 32359747, "mixed": 104878, "tabs": 957491, "files": 557322, "lines": 43711900, "bytes": 1637839038}, "Genshi": {"spaces": 4055835, "mixed": 3758, "tabs": 33862, "files": 3905, "lines": 13808596, "bytes": 445137646}, "Myghty": {"spaces": 2930, "mixed": 17, "tabs": 368, "files": 213, "lines": 11556, "bytes": 973186}, "Groovy": {"spaces": 36081768, "mixed": 1064928, "tabs": 11978581, "files": 954941, "lines": 70729689, "bytes": 2372134371}, "EJS": {"spaces": 18981337, "mixed": 988044, "tabs": 4088756, "files": 1670075, "lines": 36316260, "bytes": 2105330218}, "OpenSCAD": {"spaces": 1623584, "mixed": 41670, "tabs": 1930543, "files": 39090, "lines": 5501283, "bytes": 305074765}, "Bluespec": {"spaces": 866778, "mixed": 149958, "tabs": 111491, "files": 8162, "lines": 3356405, "bytes": 281563058}, "Kit": {"spaces": 248091, "mixed": 16975, "tabs": 194190, "files": 9740, "lines": 832962, "bytes": 83789627}, "XML": {"spaces": 37064752540, "mixed": 177137937, "tabs": 3053607710, "files": 62995608, "lines": 43746138080, "bytes": 2595543998965}, "Batchfile": {"spaces": 4341322, "mixed": 69839, "tabs": 5273891, "files": 1493756, "lines": 68114336, "bytes": 2175339180}, "Csound": {"spaces": 48970, "mixed": 536, "tabs": 5306, "files": 3940, "lines": 942618, "bytes": 69350943}, "JFlex": {"spaces": 1007210, "mixed": 193380, "tabs": 1061344, "files": 11919, "lines": 4959672, "bytes": 188769385}, "Agda": {"spaces": 1248974, "mixed": 1092, "tabs": 637, "files": 18805, "lines": 2391004, "bytes": 97836243}, "RenderScript": {"spaces": 1757274, "mixed": 6819, "tabs": 17636, "files": 28313, "lines": 3091503, "bytes": 108306788}, "Blade": {"spaces": 48296, "mixed": 1082, "tabs": 6791, "files": 991, "lines": 68533, "bytes": 3120288}, "AMPL": {"spaces": 2033, "mixed": 66, "tabs": 682, "files": 374, "lines": 21799, "bytes": 966272}, "Coq": {"spaces": 12406974, "mixed": 20872, "tabs": 100977, "files": 43178, "lines": 21950113, "bytes": 748949240}, "Red": {"spaces": 675836, "mixed": 3057, "tabs": 159977, "files": 2900, "lines": 1151361, "bytes": 75168571}, "reStructuredText": {"spaces": 133826300, "mixed": 677912, "tabs": 6263077, "files": 2493017, "lines": 403504213, "bytes": 15294811501}, "Csound Document": {"spaces": 878744, "mixed": 8958, "tabs": 67124, "files": 6445, "lines": 4941886, "bytes": 365132296}, "Vue": {"spaces": 2659506, "mixed": 45079, "tabs": 316516, "files": 38769, "lines": 3949225, "bytes": 199907737}, "Arduino": {"spaces": 44438271, "mixed": 232991, "tabs": 2608399, "files": 495040, "lines": 73930217, "bytes": 2188372042}, "Shen": {"spaces": 40041, "mixed": 793, "tabs": 268, "files": 729, "lines": 68564, "bytes": 2271005}, "LiveScript": {"spaces": 3851237, "mixed": 7068, "tabs": 193680, "files": 51573, "lines": 7214716, "bytes": 329878413}, "AutoHotkey": {"spaces": 2028906, "mixed": 100400, "tabs": 2166104, "files": 29728, "lines": 8815042, "bytes": 277704615}, "CLIPS": {"spaces": 779225, "mixed": 29693, "tabs": 386509, "files": 8448, "lines": 5132679, "bytes": 241057795}, "PowerShell": {"spaces": 57287120, "mixed": 353995, "tabs": 6908764, "files": 967880, "lines": 154724115, "bytes": 8123121506}, "Ragel in Ruby Host": {"spaces": 6144426, "mixed": 24539, "tabs": 1173758, "files": 40030, "lines": 11543537, "bytes": 335651540}, "PAWN": {"spaces": 513209, "mixed": 615350, "tabs": 3254290, "files": 6816, "lines": 5611417, "bytes": 277046103}, "Haskell": {"spaces": 31391052, "mixed": 403682, "tabs": 2092908, "files": 678872, "lines": 73855227, "bytes": 3049277097}, "Zephir": {"spaces": 289108, "mixed": 77160, "tabs": 166112, "files": 4053, "lines": 646584, "bytes": 17249649}, "Pure Data": {"spaces": 240006, "mixed": 65868, "tabs": 97151, "files": 68850, "lines": 31613507, "bytes": 1832382988}, "XPages": {"spaces": 66245, "mixed": 3481, "tabs": 14264, "files": 1759, "lines": 94321, "bytes": 3780415}, "SourcePawn": {"spaces": 921638, "mixed": 38453, "tabs": 4606484, "files": 24546, "lines": 12155484, "bytes": 577762595}, "Java Server Pages": {"spaces": 108038757, "mixed": 21813659, "tabs": 114874872, "files": 3296138, "lines": 321407030, "bytes": 12692382968}, "Frege": {"spaces": 546350, "mixed": 6779, "tabs": 28164, "files": 4144, "lines": 12071617, "bytes": 1390188632}, "Cuda": {"spaces": 31761003, "mixed": 686833, "tabs": 11041946, "files": 180966, "lines": 59584082, "bytes": 2547958763}, "Objective-C": {"spaces": 1164804041, "mixed": 7686836, "tabs": 252551931, "files": 19992602, "lines": 2674669190, "bytes": 96276717178}, "Befunge": {"spaces": 128, "mixed": 0, "tabs": 0, "files": 42, "lines": 241, "bytes": 7124}, "Less": {"spaces": 685019608, "mixed": 5108824, "tabs": 87155060, "files": 12830936, "lines": 1654467526, "bytes": 44458271126}, "Unity3D Asset": {"spaces": 3060715750, "mixed": 48745, "tabs": 11737581, "files": 21649415, "lines": 5403030812, "bytes": 780974214976}, "X10": {"spaces": 188089, "mixed": 69521, "tabs": 323795, "files": 4448, "lines": 958724, "bytes": 63750000}, "Mask": {"spaces": 134525, "mixed": 488, "tabs": 11654, "files": 6477, "lines": 245412, "bytes": 90797285}, "Linker Script": {"spaces": 14912218, "mixed": 310857, "tabs": 2756558, "files": 205209, "lines": 24947155, "bytes": 1011683829}, "NCL": {"spaces": 580213, "mixed": 25553, "tabs": 120299, "files": 5834, "lines": 1164408, "bytes": 45464709}, "Perl6": {"spaces": 38241856, "mixed": 4501107, "tabs": 46336941, "files": 340804, "lines": 184233415, "bytes": 6116051518}, "Julia": {"spaces": 5685999, "mixed": 93634, "tabs": 613759, "files": 85388, "lines": 13721473, "bytes": 1200583506}, "ECLiPSe": {"spaces": 48314, "mixed": 6856, "tabs": 62113, "files": 1152, "lines": 185510, "bytes": 6152086}, "IGOR Pro": {"spaces": 39316, "mixed": 14382, "tabs": 1196194, "files": 4920, "lines": 4750868, "bytes": 125372628}, "Parrot": {"spaces": 1008, "mixed": 17, "tabs": 779, "files": 31, "lines": 3429, "bytes": 76365}, "HyPhy": {"spaces": 120142, "mixed": 15202, "tabs": 267165, "files": 1343, "lines": 725118, "bytes": 45466723}, "Gettext Catalog": {"spaces": 2685310, "mixed": 417, "tabs": 56422, "files": 10965588, "lines": 6609501520, "bytes": 187634438773}, "Glyph": {"spaces": 33482, "mixed": 237, "tabs": 1673, "files": 875, "lines": 387082, "bytes": 301977185}, "AppleScript": {"spaces": 323951, "mixed": 2152, "tabs": 553800, "files": 122263, "lines": 3796922, "bytes": 288059693}, "Logtalk": {"spaces": 2982, "mixed": 2774, "tabs": 72318, "files": 1042, "lines": 168022, "bytes": 6935563}, "Metal": {"spaces": 150968, "mixed": 142, "tabs": 2902, "files": 1399, "lines": 189869, "bytes": 5333556}, "Opal": {"spaces": 1028, "mixed": 1, "tabs": 682, "files": 64, "lines": 2426, "bytes": 58534}, "Apollo Guidance Computer": {"spaces": 44227, "mixed": 3487, "tabs": 4649552, "files": 12234, "lines": 9028192, "bytes": 220998141}, "XC": {"spaces": 1593246, "mixed": 15173, "tabs": 95612, "files": 10490, "lines": 1938343, "bytes": 73471593}, "Go": {"spaces": 13359816, "mixed": 776368, "tabs": 512169994, "files": 3227575, "lines": 747069616, "bytes": 24617255241}, "AspectJ": {"spaces": 2941334, "mixed": 93799, "tabs": 411776, "files": 75888, "lines": 7272076, "bytes": 622877900}, "Fancy": {"spaces": 41054, "mixed": 6, "tabs": 289, "files": 726, "lines": 59982, "bytes": 2597736}, "Makefile": {"spaces": 16931926, "mixed": 1375615, "tabs": 26054146, "files": 2060917, "lines": 152387347, "bytes": 5210584151}, "Ruby": {"spaces": 2291521324, "mixed": 6757662, "tabs": 82921805, "files": 52725695, "lines": 3176634839, "bytes": 105742790519}, "Common Lisp": {"spaces": 46961117, "mixed": 5192061, "tabs": 1973786, "files": 277875, "lines": 85182574, "bytes": 4176988312}, "Kotlin": {"spaces": 3677775, "mixed": 5438, "tabs": 227513, "files": 98845, "lines": 6052066, "bytes": 209004796}, "Ceylon": {"spaces": 330041, "mixed": 2976, "tabs": 66326, "files": 8297, "lines": 516669, "bytes": 17367262}, "Awk": {"spaces": 1438370, "mixed": 104077, "tabs": 1006063, "files": 47632, "lines": 4111740, "bytes": 132410178}, "COLLADA": {"spaces": 101366013, "mixed": 4847838, "tabs": 22830322, "files": 64947, "lines": 243623196, "bytes": 60641674931}, "R": {"spaces": 68987289, "mixed": 1129230, "tabs": 12502214, "files": 1588614, "lines": 182456569, "bytes": 8625081505}, "WebIDL": {"spaces": 21092, "mixed": 7, "tabs": 142, "files": 530, "lines": 31844, "bytes": 1153588}, "Ox": {"spaces": 4780, "mixed": 776, "tabs": 19267, "files": 254, "lines": 49625, "bytes": 1902933}, "Protocol Buffer": {"spaces": 7565128, "mixed": 22335, "tabs": 2016583, "files": 116964, "lines": 16298214, "bytes": 710399663}, "Bro": {"spaces": 47372, "mixed": 10892, "tabs": 361725, "files": 5125, "lines": 1682358, "bytes": 495886963}, "edn": {"spaces": 8715895, "mixed": 25989, "tabs": 962, "files": 24331, "lines": 9937619, "bytes": 1398548351}, "Rebol": {"spaces": 186547, "mixed": 12911, "tabs": 523193, "files": 4552, "lines": 1555023, "bytes": 130101792}, "CMake": {"spaces": 25522794, "mixed": 149806, "tabs": 3061519, "files": 858252, "lines": 58463324, "bytes": 2310690115}, "Smalltalk": {"spaces": 1166, "mixed": 271, "tabs": 70452, "files": 688, "lines": 132007, "bytes": 24827693}, "KRL": {"spaces": 44770, "mixed": 5566, "tabs": 16400, "files": 946, "lines": 88633, "bytes": 3574476}, "BlitzMax": {"spaces": 23188, "mixed": 4371, "tabs": 887079, "files": 5958, "lines": 1341565, "bytes": 48598184}, "IRC log": {"spaces": 0, "mixed": 0, "tabs": 0, "files": 522, "lines": 2370533, "bytes": 185618926}, "Pike": {"spaces": 1129118, "mixed": 183107, "tabs": 152955, "files": 8119, "lines": 2190382, "bytes": 60100760}, "Tcl": {"spaces": 30127046, "mixed": 4544959, "tabs": 12777285, "files": 298969, "lines": 99973534, "bytes": 4228251156}, "Objective-C++": {"spaces": 48095036, "mixed": 323671, "tabs": 9784475, "files": 313722, "lines": 261245886, "bytes": 5755859122}, "fish": {"spaces": 1069762, "mixed": 1825, "tabs": 57772, "files": 36445, "lines": 1966188, "bytes": 201217309}, "Gradle": {"spaces": 31909841, "mixed": 188545, "tabs": 1414917, "files": 1933490, "lines": 52996709, "bytes": 1458762802}, "Cython": {"spaces": 12057256, "mixed": 9444, "tabs": 335765, "files": 85614, "lines": 18183407, "bytes": 4183232414}, "Mathematica": {"spaces": 6561760, "mixed": 88484561, "tabs": 258310378, "files": 43367, "lines": 430468690, "bytes": 24811416065}, "Squirrel": {"spaces": 638308, "mixed": 19817, "tabs": 708681, "files": 10837, "lines": 5302579, "bytes": 1099950795}, "J": {"spaces": 136889, "mixed": 506, "tabs": 6420, "files": 3600, "lines": 761122, "bytes": 26378893}, "Creole": {"spaces": 31838, "mixed": 91, "tabs": 489, "files": 3063, "lines": 174547, "bytes": 7320776}, "Nimrod": {"spaces": 1358218, "mixed": 20, "tabs": 160, "files": 10778, "lines": 2121450, "bytes": 82642787}, "VHDL": {"spaces": 105450773, "mixed": 2020577, "tabs": 26291957, "files": 357586, "lines": 381890425, "bytes": 23057367564}, "Haxe": {"spaces": 6579521, "mixed": 1052137, "tabs": 16495123, "files": 247357, "lines": 30676720, "bytes": 925655653}, "YAML": {"spaces": 1091000910, "mixed": 555348, "tabs": 3406574, "files": 8320842, "lines": 1368414573, "bytes": 48693674839}, "Org": {"spaces": 17247510, "mixed": 197217, "tabs": 1516075, "files": 133520, "lines": 53044381, "bytes": 2981718062}, "Uno": {"spaces": 66130, "mixed": 8260, "tabs": 46900, "files": 1552, "lines": 287288, "bytes": 10435455}, "Assembly": {"spaces": 56110752, "mixed": 2043230, "tabs": 92764136, "files": 393766, "lines": 329538498, "bytes": 8897913794}, "TypeScript": {"spaces": 71633663, "mixed": 509884, "tabs": 7008712, "files": 1055701, "lines": 225494577, "bytes": 15844687714}, "EmberScript": {"spaces": 295588, "mixed": 12174, "tabs": 177830, "files": 6507, "lines": 1019521, "bytes": 90528634}, "FLUX": {"spaces": 573026, "mixed": 1, "tabs": 17072, "files": 697, "lines": 625008, "bytes": 33817385}, "Standard ML": {"spaces": 6849282, "mixed": 1579838, "tabs": 1466192, "files": 83028, "lines": 16127194, "bytes": 984962540}}
+{
+  "ABAP": {
+    "bytes": 25692832,
+    "files": 2778,
+    "lines": 697211,
+    "mixed": 99,
+    "spaces": 420052,
+    "tabs": 562
+  },
+  "AGS Script": {
+    "bytes": 33344054,
+    "files": 2580,
+    "lines": 565222,
+    "mixed": 2289,
+    "spaces": 125973,
+    "tabs": 215653
+  },
+  "AMPL": {
+    "bytes": 905191,
+    "files": 368,
+    "lines": 21025,
+    "mixed": 66,
+    "spaces": 2024,
+    "tabs": 682
+  },
+  "ANTLR": {
+    "bytes": 66110389,
+    "files": 9772,
+    "lines": 2749641,
+    "mixed": 13120,
+    "spaces": 797257,
+    "tabs": 254780
+  },
+  "API Blueprint": {
+    "bytes": 114440916,
+    "files": 4526,
+    "lines": 3023810,
+    "mixed": 5457,
+    "spaces": 2050999,
+    "tabs": 19683
+  },
+  "APL": {
+    "bytes": 62421367,
+    "files": 2941,
+    "lines": 1037348,
+    "mixed": 1676,
+    "spaces": 98844,
+    "tabs": 30155
+  },
+  "ASP": {
+    "bytes": 7244081547,
+    "files": 1274648,
+    "lines": 164062174,
+    "mixed": 2612002,
+    "spaces": 64174914,
+    "tabs": 62815523
+  },
+  "ATS": {
+    "bytes": 44892762,
+    "files": 10049,
+    "lines": 1911308,
+    "mixed": 1039,
+    "spaces": 508527,
+    "tabs": 8279
+  },
+  "ActionScript": {
+    "bytes": 23669781817,
+    "files": 3660137,
+    "lines": 634446193,
+    "mixed": 57808694,
+    "spaces": 134936449,
+    "tabs": 395368354
+  },
+  "Ada": {
+    "bytes": 616330668,
+    "files": 77962,
+    "lines": 14303909,
+    "mixed": 78432,
+    "spaces": 9504267,
+    "tabs": 295662
+  },
+  "Agda": {
+    "bytes": 91542228,
+    "files": 16996,
+    "lines": 2210986,
+    "mixed": 898,
+    "spaces": 1162023,
+    "tabs": 547
+  },
+  "Alloy": {
+    "bytes": 515457399,
+    "files": 5005,
+    "lines": 3256617,
+    "mixed": 2436,
+    "spaces": 334197,
+    "tabs": 1002804
+  },
+  "ApacheConf": {
+    "bytes": 8394,
+    "files": 8,
+    "lines": 303,
+    "mixed": 7,
+    "spaces": 143,
+    "tabs": 78
+  },
+  "Apex": {
+    "bytes": 1451097981,
+    "files": 75806,
+    "lines": 37364143,
+    "mixed": 460911,
+    "spaces": 14305426,
+    "tabs": 1787541
+  },
+  "Apollo Guidance Computer": {
+    "bytes": 24037895,
+    "files": 1464,
+    "lines": 946457,
+    "mixed": 973,
+    "spaces": 21359,
+    "tabs": 450302
+  },
+  "AppleScript": {
+    "bytes": 280002547,
+    "files": 119659,
+    "lines": 3620571,
+    "mixed": 2100,
+    "spaces": 316114,
+    "tabs": 469510
+  },
+  "Arc": {
+    "bytes": 957743589,
+    "files": 4745,
+    "lines": 6321564,
+    "mixed": 37644,
+    "spaces": 927221,
+    "tabs": 127781
+  },
+  "Arduino": {
+    "bytes": 1999914837,
+    "files": 466136,
+    "lines": 68075510,
+    "mixed": 199983,
+    "spaces": 41006971,
+    "tabs": 2368843
+  },
+  "AsciiDoc": {
+    "bytes": 702959018,
+    "files": 79746,
+    "lines": 17723810,
+    "mixed": 25048,
+    "spaces": 2051591,
+    "tabs": 883200
+  },
+  "AspectJ": {
+    "bytes": 613226081,
+    "files": 71905,
+    "lines": 7025923,
+    "mixed": 89398,
+    "spaces": 2786171,
+    "tabs": 387948
+  },
+  "Assembly": {
+    "bytes": 8043176863,
+    "files": 321706,
+    "lines": 295371312,
+    "mixed": 1998492,
+    "spaces": 46157714,
+    "tabs": 83465127
+  },
+  "Augeas": {
+    "bytes": 5964950,
+    "files": 1506,
+    "lines": 213030,
+    "mixed": 1821,
+    "spaces": 148005,
+    "tabs": 3014
+  },
+  "AutoHotkey": {
+    "bytes": 238358843,
+    "files": 26244,
+    "lines": 7880815,
+    "mixed": 72711,
+    "spaces": 1867348,
+    "tabs": 1819209
+  },
+  "AutoIt": {
+    "bytes": 615982542,
+    "files": 37771,
+    "lines": 10309322,
+    "mixed": 209980,
+    "spaces": 495719,
+    "tabs": 5081048
+  },
+  "Awk": {
+    "bytes": 107936233,
+    "files": 39644,
+    "lines": 3241652,
+    "mixed": 87716,
+    "spaces": 1103687,
+    "tabs": 804947
+  },
+  "Batchfile": {
+    "bytes": 1933389724,
+    "files": 1341951,
+    "lines": 58715125,
+    "mixed": 66865,
+    "spaces": 4029065,
+    "tabs": 4796158
+  },
+  "Befunge": {
+    "bytes": 7013,
+    "files": 39,
+    "lines": 235,
+    "mixed": 0,
+    "spaces": 125,
+    "tabs": 0
+  },
+  "Bison": {
+    "bytes": 31892962,
+    "files": 133,
+    "lines": 710284,
+    "mixed": 2875,
+    "spaces": 613228,
+    "tabs": 9296
+  },
+  "BitBake": {
+    "bytes": 37088699,
+    "files": 54968,
+    "lines": 1067237,
+    "mixed": 4871,
+    "spaces": 149653,
+    "tabs": 69916
+  },
+  "Blade": {
+    "bytes": 2919429,
+    "files": 967,
+    "lines": 63886,
+    "mixed": 315,
+    "spaces": 46737,
+    "tabs": 6163
+  },
+  "BlitzBasic": {
+    "bytes": 354606347,
+    "files": 2886,
+    "lines": 1794306,
+    "mixed": 12512,
+    "spaces": 104179,
+    "tabs": 332110
+  },
+  "BlitzMax": {
+    "bytes": 45259009,
+    "files": 5386,
+    "lines": 1232386,
+    "mixed": 3749,
+    "spaces": 19795,
+    "tabs": 805367
+  },
+  "Bluespec": {
+    "bytes": 278340623,
+    "files": 7620,
+    "lines": 3267308,
+    "mixed": 144397,
+    "spaces": 830213,
+    "tabs": 99521
+  },
+  "Boo": {
+    "bytes": 130171971,
+    "files": 6261,
+    "lines": 3055404,
+    "mixed": 2227,
+    "spaces": 344900,
+    "tabs": 1861996
+  },
+  "Brainfuck": {
+    "bytes": 2686453705,
+    "files": 16860,
+    "lines": 18086197,
+    "mixed": 5532,
+    "spaces": 708539,
+    "tabs": 263303
+  },
+  "Brightscript": {
+    "bytes": 53428407,
+    "files": 3045,
+    "lines": 2020191,
+    "mixed": 11036,
+    "spaces": 352666,
+    "tabs": 185202
+  },
+  "Bro": {
+    "bytes": 490379665,
+    "files": 4056,
+    "lines": 1577853,
+    "mixed": 8460,
+    "spaces": 45787,
+    "tabs": 297280
+  },
+  "C": {
+    "bytes": 505365133777,
+    "files": 38991563,
+    "lines": 14118393339,
+    "mixed": 331609597,
+    "spaces": 5632754946,
+    "tabs": 2279561513
+  },
+  "C#": {
+    "bytes": 137087817127,
+    "files": 29716758,
+    "lines": 3675796371,
+    "mixed": 15045917,
+    "spaces": 2248783332,
+    "tabs": 665551412
+  },
+  "C++": {
+    "bytes": 326735188803,
+    "files": 34623663,
+    "lines": 9440254336,
+    "mixed": 89452186,
+    "spaces": 4397365839,
+    "tabs": 1553220391
+  },
+  "C-ObjDump": {
+    "bytes": 660,
+    "files": 2,
+    "lines": 22,
+    "mixed": 0,
+    "spaces": 12,
+    "tabs": 0
+  },
+  "C2hs Haskell": {
+    "bytes": 33097568,
+    "files": 2717,
+    "lines": 708592,
+    "mixed": 528,
+    "spaces": 208060,
+    "tabs": 8866
+  },
+  "CLIPS": {
+    "bytes": 232925018,
+    "files": 7525,
+    "lines": 4902380,
+    "mixed": 25977,
+    "spaces": 656736,
+    "tabs": 355939
+  },
+  "CMake": {
+    "bytes": 2036784857,
+    "files": 767929,
+    "lines": 51250694,
+    "mixed": 125556,
+    "spaces": 22372708,
+    "tabs": 2634351
+  },
+  "COBOL": {
+    "bytes": 260624951,
+    "files": 9534,
+    "lines": 3481924,
+    "mixed": 12188,
+    "spaces": 812971,
+    "tabs": 137833
+  },
+  "COLLADA": {
+    "bytes": 57656210384,
+    "files": 57516,
+    "lines": 232802888,
+    "mixed": 4042223,
+    "spaces": 94236965,
+    "tabs": 21177915
+  },
+  "CSS": {
+    "bytes": 348386138464,
+    "files": 31194008,
+    "lines": 10902914067,
+    "mixed": 23965898,
+    "spaces": 3963184722,
+    "tabs": 1552714236
+  },
+  "CSV": {
+    "bytes": 1863860778780,
+    "files": 4400006,
+    "lines": 22298818500,
+    "mixed": 3617838,
+    "spaces": 156814390,
+    "tabs": 38389341
+  },
+  "Cap'n Proto": {
+    "bytes": 2867986,
+    "files": 763,
+    "lines": 77677,
+    "mixed": 15,
+    "spaces": 45079,
+    "tabs": 2754
+  },
+  "CartoCSS": {
+    "bytes": 37910570,
+    "files": 5959,
+    "lines": 1159243,
+    "mixed": 5256,
+    "spaces": 563789,
+    "tabs": 8474
+  },
+  "Ceylon": {
+    "bytes": 17155598,
+    "files": 8056,
+    "lines": 508271,
+    "mixed": 2940,
+    "spaces": 326671,
+    "tabs": 65062
+  },
+  "Chapel": {
+    "bytes": 6029434,
+    "files": 1291,
+    "lines": 199119,
+    "mixed": 3234,
+    "spaces": 102271,
+    "tabs": 27124
+  },
+  "Charity": {
+    "bytes": 266267797,
+    "files": 5697,
+    "lines": 2704058,
+    "mixed": 7033,
+    "spaces": 308738,
+    "tabs": 55213
+  },
+  "ChucK": {
+    "bytes": 167398759,
+    "files": 184609,
+    "lines": 6915622,
+    "mixed": 19846,
+    "spaces": 2504709,
+    "tabs": 103432
+  },
+  "Cirru": {
+    "bytes": 1349751,
+    "files": 1433,
+    "lines": 52244,
+    "mixed": 0,
+    "spaces": 33812,
+    "tabs": 0
+  },
+  "Clarion": {
+    "bytes": 31121973,
+    "files": 5352,
+    "lines": 1046338,
+    "mixed": 251,
+    "spaces": 60699,
+    "tabs": 7627
+  },
+  "Clean": {
+    "bytes": 48740765,
+    "files": 5385,
+    "lines": 562994,
+    "mixed": 8155,
+    "spaces": 188652,
+    "tabs": 89648
+  },
+  "Click": {
+    "bytes": 443211109,
+    "files": 4384,
+    "lines": 15628181,
+    "mixed": 11906,
+    "spaces": 90104,
+    "tabs": 28965
+  },
+  "Clojure": {
+    "bytes": 2185125911,
+    "files": 426381,
+    "lines": 44328297,
+    "mixed": 180737,
+    "spaces": 31300696,
+    "tabs": 177332
+  },
+  "CoffeeScript": {
+    "bytes": 6647288504,
+    "files": 2956251,
+    "lines": 193760652,
+    "mixed": 165644,
+    "spaces": 135509645,
+    "tabs": 8380147
+  },
+  "ColdFusion": {
+    "bytes": 1053079247,
+    "files": 267918,
+    "lines": 26177354,
+    "mixed": 936872,
+    "spaces": 2676268,
+    "tabs": 16102252
+  },
+  "ColdFusion CFC": {
+    "bytes": 951554555,
+    "files": 153928,
+    "lines": 23362501,
+    "mixed": 646712,
+    "spaces": 1657162,
+    "tabs": 17004693
+  },
+  "Common Lisp": {
+    "bytes": 3013845979,
+    "files": 245257,
+    "lines": 68974923,
+    "mixed": 4554931,
+    "spaces": 35795010,
+    "tabs": 1787649
+  },
+  "Component Pascal": {
+    "bytes": 1199126874,
+    "files": 12943,
+    "lines": 15695991,
+    "mixed": 62716,
+    "spaces": 6518407,
+    "tabs": 1780756
+  },
+  "Cool": {
+    "bytes": 76879705,
+    "files": 7854,
+    "lines": 2124140,
+    "mixed": 64129,
+    "spaces": 543431,
+    "tabs": 102437
+  },
+  "Coq": {
+    "bytes": 706866638,
+    "files": 40547,
+    "lines": 20792490,
+    "mixed": 20503,
+    "spaces": 11667415,
+    "tabs": 94185
+  },
+  "Cpp-ObjDump": {
+    "bytes": 3,
+    "files": 1,
+    "lines": 1,
+    "mixed": 0,
+    "spaces": 0,
+    "tabs": 0
+  },
+  "Creole": {
+    "bytes": 6994236,
+    "files": 2828,
+    "lines": 166170,
+    "mixed": 91,
+    "spaces": 31272,
+    "tabs": 489
+  },
+  "Crystal": {
+    "bytes": 64421803,
+    "files": 11119,
+    "lines": 1028140,
+    "mixed": 1114,
+    "spaces": 578934,
+    "tabs": 23859
+  },
+  "Csound": {
+    "bytes": 45652510,
+    "files": 3206,
+    "lines": 538954,
+    "mixed": 528,
+    "spaces": 48623,
+    "tabs": 4882
+  },
+  "Csound Document": {
+    "bytes": 364902262,
+    "files": 6411,
+    "lines": 4936343,
+    "mixed": 8956,
+    "spaces": 875634,
+    "tabs": 67115
+  },
+  "Csound Score": {
+    "bytes": 244826696,
+    "files": 3422,
+    "lines": 4270302,
+    "mixed": 3055,
+    "spaces": 8111,
+    "tabs": 36528
+  },
+  "Cucumber": {
+    "bytes": 1558273995,
+    "files": 519559,
+    "lines": 41496913,
+    "mixed": 92064,
+    "spaces": 30608761,
+    "tabs": 901109
+  },
+  "Cuda": {
+    "bytes": 1324955866,
+    "files": 116566,
+    "lines": 32881109,
+    "mixed": 499528,
+    "spaces": 15967952,
+    "tabs": 6572519
+  },
+  "Cycript": {
+    "bytes": 43819132,
+    "files": 504,
+    "lines": 838746,
+    "mixed": 272,
+    "spaces": 11314,
+    "tabs": 8567
+  },
+  "Cython": {
+    "bytes": 4065397279,
+    "files": 72902,
+    "lines": 15848452,
+    "mixed": 8505,
+    "spaces": 10401680,
+    "tabs": 282967
+  },
+  "D": {
+    "bytes": 213245394,
+    "files": 35012,
+    "lines": 6062325,
+    "mixed": 59487,
+    "spaces": 2402744,
+    "tabs": 1802417
+  },
+  "D-ObjDump": {
+    "bytes": 3,
+    "files": 1,
+    "lines": 1,
+    "mixed": 0,
+    "spaces": 0,
+    "tabs": 0
+  },
+  "DIGITAL Command Language": {
+    "bytes": 1187316128,
+    "files": 37391,
+    "lines": 14055400,
+    "mixed": 71678,
+    "spaces": 1006010,
+    "tabs": 398938
+  },
+  "DM": {
+    "bytes": 3427932858,
+    "files": 491391,
+    "lines": 103904750,
+    "mixed": 303486,
+    "spaces": 575922,
+    "tabs": 75347798
+  },
+  "DNS Zone": {
+    "bytes": 1187700701,
+    "files": 4183,
+    "lines": 37444419,
+    "mixed": 739,
+    "spaces": 66688,
+    "tabs": 117588
+  },
+  "DTrace": {
+    "bytes": 199782039,
+    "files": 10694,
+    "lines": 6546376,
+    "mixed": 109083,
+    "spaces": 1303788,
+    "tabs": 856154
+  },
+  "Darcs Patch": {
+    "bytes": 66939386,
+    "files": 3714,
+    "lines": 1957694,
+    "mixed": 28944,
+    "spaces": 345038,
+    "tabs": 2021
+  },
+  "Dart": {
+    "bytes": 4200979436,
+    "files": 365861,
+    "lines": 120216877,
+    "mixed": 51349,
+    "spaces": 93504313,
+    "tabs": 383173
+  },
+  "Diff": {
+    "bytes": 32237030928,
+    "files": 1541253,
+    "lines": 927033056,
+    "mixed": 22996839,
+    "spaces": 94725734,
+    "tabs": 330071
+  },
+  "Dockerfile": {
+    "bytes": 1918821,
+    "files": 2534,
+    "lines": 55444,
+    "mixed": 108,
+    "spaces": 9694,
+    "tabs": 888
+  },
+  "Dogescript": {
+    "bytes": 5778519,
+    "files": 367,
+    "lines": 20947,
+    "mixed": 0,
+    "spaces": 6183,
+    "tabs": 459
+  },
+  "Dylan": {
+    "bytes": 138190473,
+    "files": 12101,
+    "lines": 2825529,
+    "mixed": 137127,
+    "spaces": 1326428,
+    "tabs": 73080
+  },
+  "ECL": {
+    "bytes": 66829759,
+    "files": 1771,
+    "lines": 424859,
+    "mixed": 2000,
+    "spaces": 226327,
+    "tabs": 78692
+  },
+  "ECLiPSe": {
+    "bytes": 6150338,
+    "files": 1151,
+    "lines": 185420,
+    "mixed": 6856,
+    "spaces": 48294,
+    "tabs": 62091
+  },
+  "EJS": {
+    "bytes": 2014795309,
+    "files": 1598119,
+    "lines": 34456156,
+    "mixed": 940136,
+    "spaces": 17847106,
+    "tabs": 3927312
+  },
+  "EQ": {
+    "bytes": 40178155,
+    "files": 5338,
+    "lines": 276254,
+    "mixed": 1223,
+    "spaces": 38488,
+    "tabs": 57323
+  },
+  "Eagle": {
+    "bytes": 36500207810,
+    "files": 163784,
+    "lines": 472112933,
+    "mixed": 108249,
+    "spaces": 27609362,
+    "tabs": 4254023
+  },
+  "Ecere Projects": {
+    "bytes": 302099,
+    "files": 60,
+    "lines": 12692,
+    "mixed": 0,
+    "spaces": 6252,
+    "tabs": 0
+  },
+  "Eiffel": {
+    "bytes": 2641648305,
+    "files": 53517,
+    "lines": 27566711,
+    "mixed": 115451,
+    "spaces": 2116254,
+    "tabs": 8147131
+  },
+  "Elixir": {
+    "bytes": 939545598,
+    "files": 323338,
+    "lines": 16248064,
+    "mixed": 22469,
+    "spaces": 9732941,
+    "tabs": 682459
+  },
+  "Elm": {
+    "bytes": 252507628,
+    "files": 53636,
+    "lines": 8013972,
+    "mixed": 1180,
+    "spaces": 3169747,
+    "tabs": 9420
+  },
+  "Emacs Lisp": {
+    "bytes": 16039217632,
+    "files": 819171,
+    "lines": 403173392,
+    "mixed": 31589150,
+    "spaces": 206879064,
+    "tabs": 10222810
+  },
+  "EmberScript": {
+    "bytes": 88574677,
+    "files": 6032,
+    "lines": 967636,
+    "mixed": 11769,
+    "spaces": 272365,
+    "tabs": 171059
+  },
+  "Erlang": {
+    "bytes": 1980898268,
+    "files": 283896,
+    "lines": 54708728,
+    "mixed": 3933889,
+    "spaces": 20137525,
+    "tabs": 5074040
+  },
+  "F#": {
+    "bytes": 754350293,
+    "files": 104818,
+    "lines": 14212468,
+    "mixed": 11113,
+    "spaces": 8567835,
+    "tabs": 66846
+  },
+  "FLUX": {
+    "bytes": 32550483,
+    "files": 412,
+    "lines": 581213,
+    "mixed": 1,
+    "spaces": 564376,
+    "tabs": 3553
+  },
+  "FORTRAN": {
+    "bytes": 7534273561,
+    "files": 384884,
+    "lines": 208669516,
+    "mixed": 1604410,
+    "spaces": 133657266,
+    "tabs": 3377666
+  },
+  "Factor": {
+    "bytes": 25876232,
+    "files": 8767,
+    "lines": 779064,
+    "mixed": 31,
+    "spaces": 287736,
+    "tabs": 271
+  },
+  "Fancy": {
+    "bytes": 2492243,
+    "files": 671,
+    "lines": 56139,
+    "mixed": 6,
+    "spaces": 38882,
+    "tabs": 289
+  },
+  "Fantom": {
+    "bytes": 6704923,
+    "files": 2084,
+    "lines": 254458,
+    "mixed": 403,
+    "spaces": 179897,
+    "tabs": 8438
+  },
+  "Filterscript": {
+    "bytes": 452836,
+    "files": 327,
+    "lines": 13698,
+    "mixed": 10,
+    "spaces": 8897,
+    "tabs": 86
+  },
+  "Forth": {
+    "bytes": 258859062,
+    "files": 18162,
+    "lines": 5244862,
+    "mixed": 30469,
+    "spaces": 1150486,
+    "tabs": 251260
+  },
+  "FreeMarker": {
+    "bytes": 1109411149,
+    "files": 262763,
+    "lines": 23534783,
+    "mixed": 1571554,
+    "spaces": 8386522,
+    "tabs": 6784107
+  },
+  "Frege": {
+    "bytes": 1382611327,
+    "files": 3597,
+    "lines": 11906534,
+    "mixed": 6415,
+    "spaces": 458862,
+    "tabs": 26535
+  },
+  "G-code": {
+    "bytes": 22880744925,
+    "files": 46260,
+    "lines": 776090013,
+    "mixed": 1481274,
+    "spaces": 7480945,
+    "tabs": 38016716
+  },
+  "GAMS": {
+    "bytes": 31133709,
+    "files": 1600,
+    "lines": 811452,
+    "mixed": 4760,
+    "spaces": 141606,
+    "tabs": 76377
+  },
+  "GAP": {
+    "bytes": 326755585,
+    "files": 11910,
+    "lines": 4504227,
+    "mixed": 7300,
+    "spaces": 1033720,
+    "tabs": 1469105
+  },
+  "GAS": {
+    "bytes": 37572705237,
+    "files": 870305,
+    "lines": 1228818465,
+    "mixed": 4295305,
+    "spaces": 70280214,
+    "tabs": 567465239
+  },
+  "GCC Machine Description": {
+    "bytes": 7813903,
+    "files": 241,
+    "lines": 247330,
+    "mixed": 26114,
+    "spaces": 126117,
+    "tabs": 14923
+  },
+  "GLSL": {
+    "bytes": 5321195305,
+    "files": 933880,
+    "lines": 134411797,
+    "mixed": 2157172,
+    "spaces": 27003083,
+    "tabs": 45510076
+  },
+  "Genshi": {
+    "bytes": 231108086,
+    "files": 2786,
+    "lines": 7285006,
+    "mixed": 3633,
+    "spaces": 2058781,
+    "tabs": 33779
+  },
+  "Gentoo Ebuild": {
+    "bytes": 240372869,
+    "files": 121734,
+    "lines": 8783346,
+    "mixed": 32768,
+    "spaces": 85906,
+    "tabs": 4330456
+  },
+  "Gentoo Eclass": {
+    "bytes": 19516676,
+    "files": 2062,
+    "lines": 643284,
+    "mixed": 1594,
+    "spaces": 5005,
+    "tabs": 346684
+  },
+  "Gettext Catalog": {
+    "bytes": 168574680960,
+    "files": 10476207,
+    "lines": 5945103122,
+    "mixed": 354,
+    "spaces": 2607464,
+    "tabs": 47144
+  },
+  "Glyph": {
+    "bytes": 164255319,
+    "files": 775,
+    "lines": 221934,
+    "mixed": 236,
+    "spaces": 33341,
+    "tabs": 1398
+  },
+  "Gnuplot": {
+    "bytes": 4191891143,
+    "files": 135619,
+    "lines": 166834477,
+    "mixed": 8082,
+    "spaces": 4840795,
+    "tabs": 2375008
+  },
+  "Go": {
+    "bytes": 21482146437,
+    "files": 2871323,
+    "lines": 642060512,
+    "mixed": 703820,
+    "spaces": 12221314,
+    "tabs": 434530437
+  },
+  "Golo": {
+    "bytes": 2218330,
+    "files": 1578,
+    "lines": 86567,
+    "mixed": 979,
+    "spaces": 41713,
+    "tabs": 6542
+  },
+  "Gosu": {
+    "bytes": 62585573,
+    "files": 2576,
+    "lines": 515163,
+    "mixed": 67,
+    "spaces": 290047,
+    "tabs": 1657
+  },
+  "Grace": {
+    "bytes": 2897025,
+    "files": 933,
+    "lines": 92402,
+    "mixed": 3,
+    "spaces": 63023,
+    "tabs": 129
+  },
+  "Gradle": {
+    "bytes": 1386913060,
+    "files": 1857482,
+    "lines": 50493682,
+    "mixed": 121559,
+    "spaces": 30510364,
+    "tabs": 1299501
+  },
+  "Grammatical Framework": {
+    "bytes": 113642100,
+    "files": 6792,
+    "lines": 2227967,
+    "mixed": 13163,
+    "spaces": 1135955,
+    "tabs": 71796
+  },
+  "GraphQL": {
+    "bytes": 450373,
+    "files": 380,
+    "lines": 25166,
+    "mixed": 82,
+    "spaces": 14229,
+    "tabs": 115
+  },
+  "Graphviz (DOT)": {
+    "bytes": 8494597683,
+    "files": 106039,
+    "lines": 201064168,
+    "mixed": 97775,
+    "spaces": 15433593,
+    "tabs": 80046286
+  },
+  "Groff": {
+    "bytes": 148993432888,
+    "files": 1118450,
+    "lines": 1183739441,
+    "mixed": 11672939,
+    "spaces": 137621446,
+    "tabs": 42609699
+  },
+  "Groovy": {
+    "bytes": 2173791334,
+    "files": 893342,
+    "lines": 64204193,
+    "mixed": 956900,
+    "spaces": 33356026,
+    "tabs": 10908730
+  },
+  "Groovy Server Pages": {
+    "bytes": 866528197,
+    "files": 301603,
+    "lines": 20864431,
+    "mixed": 674366,
+    "spaces": 8097135,
+    "tabs": 7961580
+  },
+  "HCL": {
+    "bytes": 256407680,
+    "files": 23997,
+    "lines": 4134890,
+    "mixed": 13990,
+    "spaces": 624017,
+    "tabs": 211423
+  },
+  "HLSL": {
+    "bytes": 116717177,
+    "files": 38016,
+    "lines": 3633736,
+    "mixed": 45623,
+    "spaces": 1051530,
+    "tabs": 937627
+  },
+  "HTML": {
+    "bytes": 1309268331537,
+    "files": 81073868,
+    "lines": 21698446999,
+    "mixed": 256776996,
+    "spaces": 7122281936,
+    "tabs": 3545117027
+  },
+  "HTML+Django": {
+    "bytes": 1805674800,
+    "files": 231348,
+    "lines": 39678655,
+    "mixed": 257278,
+    "spaces": 28817000,
+    "tabs": 2507818
+  },
+  "HTML+ECR": {
+    "bytes": 276258,
+    "files": 334,
+    "lines": 7451,
+    "mixed": 0,
+    "spaces": 5340,
+    "tabs": 64
+  },
+  "HTML+EEX": {
+    "bytes": 23948045,
+    "files": 26868,
+    "lines": 729466,
+    "mixed": 2359,
+    "spaces": 508139,
+    "tabs": 22191
+  },
+  "HTML+ERB": {
+    "bytes": 9619810989,
+    "files": 9690615,
+    "lines": 283036902,
+    "mixed": 4490180,
+    "spaces": 138319929,
+    "tabs": 21634068
+  },
+  "HTML+PHP": {
+    "bytes": 12283910675,
+    "files": 3053518,
+    "lines": 255389507,
+    "mixed": 1739849,
+    "spaces": 197153804,
+    "tabs": 10028545
+  },
+  "HTTP": {
+    "bytes": 11808320165,
+    "files": 297115,
+    "lines": 45291997,
+    "mixed": 6590,
+    "spaces": 467658,
+    "tabs": 612706
+  },
+  "Hack": {
+    "bytes": 8766450,
+    "files": 4587,
+    "lines": 317988,
+    "mixed": 8887,
+    "spaces": 175385,
+    "tabs": 53118
+  },
+  "Haml": {
+    "bytes": 1007639246,
+    "files": 1140206,
+    "lines": 26846570,
+    "mixed": 29479,
+    "spaces": 20111947,
+    "tabs": 1158469
+  },
+  "Handlebars": {
+    "bytes": 717016352,
+    "files": 607066,
+    "lines": 18531452,
+    "mixed": 257956,
+    "spaces": 10754537,
+    "tabs": 2219147
+  },
+  "Harbour": {
+    "bytes": 30934113,
+    "files": 2130,
+    "lines": 176004,
+    "mixed": 1548,
+    "spaces": 79356,
+    "tabs": 10847
+  },
+  "Haskell": {
+    "bytes": 2815884947,
+    "files": 641534,
+    "lines": 67681129,
+    "mixed": 371707,
+    "spaces": 28713458,
+    "tabs": 1934478
+  },
+  "Haxe": {
+    "bytes": 866103384,
+    "files": 233603,
+    "lines": 28631741,
+    "mixed": 1000156,
+    "spaces": 6061341,
+    "tabs": 15638381
+  },
+  "Hy": {
+    "bytes": 15169206,
+    "files": 2213,
+    "lines": 219679,
+    "mixed": 1310,
+    "spaces": 53187,
+    "tabs": 100527
+  },
+  "HyPhy": {
+    "bytes": 44605904,
+    "files": 1312,
+    "lines": 707678,
+    "mixed": 14620,
+    "spaces": 116417,
+    "tabs": 264421
+  },
+  "IDL": {
+    "bytes": 2582576145,
+    "files": 1570,
+    "lines": 1137150,
+    "mixed": 54,
+    "spaces": 6527,
+    "tabs": 1437
+  },
+  "IGOR Pro": {
+    "bytes": 121700283,
+    "files": 4796,
+    "lines": 4575596,
+    "mixed": 14251,
+    "spaces": 39040,
+    "tabs": 1122048
+  },
+  "INI": {
+    "bytes": 28840987001,
+    "files": 7666231,
+    "lines": 788687882,
+    "mixed": 370190,
+    "spaces": 62567791,
+    "tabs": 14791383
+  },
+  "IRC log": {
+    "bytes": 185565636,
+    "files": 510,
+    "lines": 2369626,
+    "mixed": 0,
+    "spaces": 0,
+    "tabs": 0
+  },
+  "Idris": {
+    "bytes": 14177280,
+    "files": 7399,
+    "lines": 478757,
+    "mixed": 738,
+    "spaces": 125208,
+    "tabs": 2338
+  },
+  "Inform 7": {
+    "bytes": 228833628,
+    "files": 2125,
+    "lines": 1435429,
+    "mixed": 5600,
+    "spaces": 94193,
+    "tabs": 583136
+  },
+  "Inno Setup": {
+    "bytes": 98089891,
+    "files": 15430,
+    "lines": 1973296,
+    "mixed": 12044,
+    "spaces": 346051,
+    "tabs": 321020
+  },
+  "Io": {
+    "bytes": 113324946,
+    "files": 7587,
+    "lines": 1642111,
+    "mixed": 2924,
+    "spaces": 134187,
+    "tabs": 105896
+  },
+  "Ioke": {
+    "bytes": 7383821,
+    "files": 796,
+    "lines": 355298,
+    "mixed": 63,
+    "spaces": 49334,
+    "tabs": 723
+  },
+  "Isabelle": {
+    "bytes": 127551435,
+    "files": 8359,
+    "lines": 3048707,
+    "mixed": 61762,
+    "spaces": 1666369,
+    "tabs": 22011
+  },
+  "J": {
+    "bytes": 26376375,
+    "files": 3589,
+    "lines": 761019,
+    "mixed": 506,
+    "spaces": 136889,
+    "tabs": 6420
+  },
+  "JFlex": {
+    "bytes": 167642806,
+    "files": 9955,
+    "lines": 4327250,
+    "mixed": 168997,
+    "spaces": 766689,
+    "tabs": 937263
+  },
+  "JSON": {
+    "bytes": 1125299979113,
+    "files": 51941741,
+    "lines": 14421679799,
+    "mixed": 15889863,
+    "spaces": 12115289140,
+    "tabs": 998615764
+  },
+  "JSON5": {
+    "bytes": 11517777,
+    "files": 101420,
+    "lines": 591624,
+    "mixed": 33,
+    "spaces": 424487,
+    "tabs": 3166
+  },
+  "JSONLD": {
+    "bytes": 240897724,
+    "files": 7814,
+    "lines": 5040554,
+    "mixed": 177463,
+    "spaces": 3912442,
+    "tabs": 764456
+  },
+  "JSONiq": {
+    "bytes": 1364698,
+    "files": 687,
+    "lines": 33067,
+    "mixed": 25,
+    "spaces": 22928,
+    "tabs": 494
+  },
+  "JSX": {
+    "bytes": 912641306,
+    "files": 415862,
+    "lines": 27952843,
+    "mixed": 460832,
+    "spaces": 17322219,
+    "tabs": 3143152
+  },
+  "Jade": {
+    "bytes": 1374275471,
+    "files": 1056164,
+    "lines": 34042098,
+    "mixed": 21098,
+    "spaces": 23694710,
+    "tabs": 5056795
+  },
+  "Jasmin": {
+    "bytes": 665858364,
+    "files": 29697,
+    "lines": 7311710,
+    "mixed": 8368,
+    "spaces": 2221701,
+    "tabs": 250938
+  },
+  "Java": {
+    "bytes": 352001030904,
+    "files": 72361384,
+    "lines": 10285863472,
+    "mixed": 390202031,
+    "spaces": 5483159668,
+    "tabs": 2251173735
+  },
+  "Java Server Pages": {
+    "bytes": 11892116108,
+    "files": 3047169,
+    "lines": 300874638,
+    "mixed": 20576612,
+    "spaces": 100789349,
+    "tabs": 108209899
+  },
+  "JavaScript": {
+    "bytes": 2341806127239,
+    "files": 253624606,
+    "lines": 58906872257,
+    "mixed": 1174892415,
+    "spaces": 37690003403,
+    "tabs": 7595561183
+  },
+  "Julia": {
+    "bytes": 1121213939,
+    "files": 70112,
+    "lines": 11524954,
+    "mixed": 85800,
+    "spaces": 4611419,
+    "tabs": 553707
+  },
+  "Jupyter Notebook": {
+    "bytes": 137421372249,
+    "files": 342521,
+    "lines": 690473166,
+    "mixed": 1039,
+    "spaces": 689006505,
+    "tabs": 5188
+  },
+  "KRL": {
+    "bytes": 3386018,
+    "files": 936,
+    "lines": 86726,
+    "mixed": 5566,
+    "spaces": 44757,
+    "tabs": 16176
+  },
+  "KiCad": {
+    "bytes": 2670827255,
+    "files": 7873,
+    "lines": 37106928,
+    "mixed": 0,
+    "spaces": 36560277,
+    "tabs": 0
+  },
+  "Kit": {
+    "bytes": 81997459,
+    "files": 9231,
+    "lines": 792761,
+    "mixed": 16646,
+    "spaces": 233181,
+    "tabs": 185067
+  },
+  "Kotlin": {
+    "bytes": 202350027,
+    "files": 95042,
+    "lines": 5883497,
+    "mixed": 5408,
+    "spaces": 3578205,
+    "tabs": 227185
+  },
+  "LFE": {
+    "bytes": 2381934,
+    "files": 1438,
+    "lines": 78679,
+    "mixed": 678,
+    "spaces": 46081,
+    "tabs": 112
+  },
+  "LLVM": {
+    "bytes": 1103024044,
+    "files": 26789,
+    "lines": 17484311,
+    "mixed": 16375,
+    "spaces": 8173151,
+    "tabs": 411099
+  },
+  "LOLCODE": {
+    "bytes": 4448570,
+    "files": 2567,
+    "lines": 79178,
+    "mixed": 337,
+    "spaces": 21467,
+    "tabs": 18484
+  },
+  "LSL": {
+    "bytes": 94546074,
+    "files": 11263,
+    "lines": 1906369,
+    "mixed": 6174,
+    "spaces": 1080477,
+    "tabs": 82915
+  },
+  "LabVIEW": {
+    "bytes": 282600829,
+    "files": 4776,
+    "lines": 2386615,
+    "mixed": 68,
+    "spaces": 442634,
+    "tabs": 1723125
+  },
+  "Lasso": {
+    "bytes": 2095392934,
+    "files": 18130,
+    "lines": 16383594,
+    "mixed": 5272,
+    "spaces": 6493649,
+    "tabs": 1533325
+  },
+  "Latte": {
+    "bytes": 51669917,
+    "files": 36380,
+    "lines": 1314838,
+    "mixed": 26304,
+    "spaces": 455948,
+    "tabs": 426531
+  },
+  "Lean": {
+    "bytes": 12311127,
+    "files": 1327,
+    "lines": 163789,
+    "mixed": 75,
+    "spaces": 79861,
+    "tabs": 207
+  },
+  "Less": {
+    "bytes": 42501421671,
+    "files": 12276411,
+    "lines": 1579694135,
+    "mixed": 4806308,
+    "spaces": 654540371,
+    "tabs": 82303742
+  },
+  "Lex": {
+    "bytes": 3163747126,
+    "files": 42376,
+    "lines": 76607790,
+    "mixed": 328123,
+    "spaces": 2132724,
+    "tabs": 1739692
+  },
+  "LilyPond": {
+    "bytes": 200076361,
+    "files": 42409,
+    "lines": 7257408,
+    "mixed": 59393,
+    "spaces": 3664817,
+    "tabs": 1788232
+  },
+  "Limbo": {
+    "bytes": 86614777,
+    "files": 6506,
+    "lines": 2870304,
+    "mixed": 21903,
+    "spaces": 131135,
+    "tabs": 1589059
+  },
+  "Linker Script": {
+    "bytes": 874364240,
+    "files": 151417,
+    "lines": 19527122,
+    "mixed": 236835,
+    "spaces": 11769938,
+    "tabs": 1835648
+  },
+  "Linux Kernel Module": {
+    "bytes": 5995162936,
+    "files": 63672,
+    "lines": 170674372,
+    "mixed": 84610,
+    "spaces": 16891543,
+    "tabs": 959872
+  },
+  "Liquid": {
+    "bytes": 241010568,
+    "files": 53103,
+    "lines": 6586521,
+    "mixed": 98958,
+    "spaces": 3859149,
+    "tabs": 509757
+  },
+  "Literate Agda": {
+    "bytes": 9117600,
+    "files": 907,
+    "lines": 246762,
+    "mixed": 10,
+    "spaces": 59060,
+    "tabs": 22
+  },
+  "Literate CoffeeScript": {
+    "bytes": 22157362,
+    "files": 6453,
+    "lines": 688081,
+    "mixed": 261,
+    "spaces": 347191,
+    "tabs": 12198
+  },
+  "Literate Haskell": {
+    "bytes": 211913798,
+    "files": 21318,
+    "lines": 5425712,
+    "mixed": 59889,
+    "spaces": 1225815,
+    "tabs": 94950
+  },
+  "LiveScript": {
+    "bytes": 320520391,
+    "files": 49526,
+    "lines": 6936368,
+    "mixed": 7058,
+    "spaces": 3680687,
+    "tabs": 189470
+  },
+  "Logos": {
+    "bytes": 23368460478,
+    "files": 73405,
+    "lines": 627126685,
+    "mixed": 1643519,
+    "spaces": 465656229,
+    "tabs": 21262307
+  },
+  "Logtalk": {
+    "bytes": 6898623,
+    "files": 1031,
+    "lines": 166287,
+    "mixed": 2774,
+    "spaces": 2982,
+    "tabs": 71050
+  },
+  "LookML": {
+    "bytes": 20433354,
+    "files": 8667,
+    "lines": 878202,
+    "mixed": 0,
+    "spaces": 629428,
+    "tabs": 0
+  },
+  "LoomScript": {
+    "bytes": 4281583,
+    "files": 1064,
+    "lines": 135779,
+    "mixed": 9392,
+    "spaces": 71472,
+    "tabs": 37855
+  },
+  "Lua": {
+    "bytes": 12825303674,
+    "files": 1367779,
+    "lines": 355940556,
+    "mixed": 2327297,
+    "spaces": 72434176,
+    "tabs": 177190068
+  },
+  "M": {
+    "bytes": 1612390126,
+    "files": 7577,
+    "lines": 9556053,
+    "mixed": 98926,
+    "spaces": 1180543,
+    "tabs": 285627
+  },
+  "M4": {
+    "bytes": 11632210666,
+    "files": 408881,
+    "lines": 325745166,
+    "mixed": 27133070,
+    "spaces": 132812049,
+    "tabs": 22694380
+  },
+  "MAXScript": {
+    "bytes": 6512023235,
+    "files": 12878,
+    "lines": 13270545,
+    "mixed": 18341,
+    "spaces": 3168526,
+    "tabs": 962251
+  },
+  "MTML": {
+    "bytes": 16352211,
+    "files": 6561,
+    "lines": 434682,
+    "mixed": 2437,
+    "spaces": 259066,
+    "tabs": 12666
+  },
+  "MUF": {
+    "bytes": 1784795093,
+    "files": 881,
+    "lines": 8739085,
+    "mixed": 2081,
+    "spaces": 222899,
+    "tabs": 29562
+  },
+  "Makefile": {
+    "bytes": 3760997633,
+    "files": 1391862,
+    "lines": 108616695,
+    "mixed": 1052408,
+    "spaces": 10694860,
+    "tabs": 20383360
+  },
+  "Mako": {
+    "bytes": 110129832,
+    "files": 38144,
+    "lines": 2582877,
+    "mixed": 31860,
+    "spaces": 1435976,
+    "tabs": 194154
+  },
+  "Markdown": {
+    "bytes": 225393804643,
+    "files": 50385322,
+    "lines": 6440911674,
+    "mixed": 6435812,
+    "spaces": 1456818315,
+    "tabs": 50503861
+  },
+  "Mask": {
+    "bytes": 90172793,
+    "files": 6043,
+    "lines": 224369,
+    "mixed": 458,
+    "spaces": 132669,
+    "tabs": 9738
+  },
+  "Mathematica": {
+    "bytes": 23547635391,
+    "files": 34787,
+    "lines": 401606362,
+    "mixed": 87178014,
+    "spaces": 4290741,
+    "tabs": 248801010
+  },
+  "Matlab": {
+    "bytes": 10106063132,
+    "files": 2432278,
+    "lines": 280205122,
+    "mixed": 1123869,
+    "spaces": 119033673,
+    "tabs": 8415007
+  },
+  "Max": {
+    "bytes": 7612457325,
+    "files": 57748,
+    "lines": 178778416,
+    "mixed": 49790,
+    "spaces": 2561742,
+    "tabs": 136380393
+  },
+  "MediaWiki": {
+    "bytes": 463953746,
+    "files": 66102,
+    "lines": 15555052,
+    "mixed": 16057,
+    "spaces": 1808315,
+    "tabs": 169688
+  },
+  "Mercury": {
+    "bytes": 16165381,
+    "files": 1203,
+    "lines": 412563,
+    "mixed": 1136,
+    "spaces": 194528,
+    "tabs": 39402
+  },
+  "Metal": {
+    "bytes": 5223207,
+    "files": 1355,
+    "lines": 186884,
+    "mixed": 142,
+    "spaces": 149464,
+    "tabs": 2862
+  },
+  "Mirah": {
+    "bytes": 6535274,
+    "files": 1021,
+    "lines": 125112,
+    "mixed": 190,
+    "spaces": 66762,
+    "tabs": 18257
+  },
+  "Modelica": {
+    "bytes": 95372970271,
+    "files": 9381935,
+    "lines": 259999050,
+    "mixed": 143951,
+    "spaces": 11442331,
+    "tabs": 691480
+  },
+  "Modula-2": {
+    "bytes": 62742018,
+    "files": 4581,
+    "lines": 1320599,
+    "mixed": 31786,
+    "spaces": 744940,
+    "tabs": 216486
+  },
+  "Module Management System": {
+    "bytes": 29531902,
+    "files": 5011,
+    "lines": 479738,
+    "mixed": 4529,
+    "spaces": 89274,
+    "tabs": 57046
+  },
+  "Monkey": {
+    "bytes": 31905957,
+    "files": 5824,
+    "lines": 1142620,
+    "mixed": 14539,
+    "spaces": 141347,
+    "tabs": 768757
+  },
+  "Moocode": {
+    "bytes": 1377123166,
+    "files": 518,
+    "lines": 7805271,
+    "mixed": 136,
+    "spaces": 12173,
+    "tabs": 4993
+  },
+  "MoonScript": {
+    "bytes": 18664917,
+    "files": 7589,
+    "lines": 667489,
+    "mixed": 976,
+    "spaces": 385990,
+    "tabs": 85607
+  },
+  "Myghty": {
+    "bytes": 924313,
+    "files": 141,
+    "lines": 8875,
+    "mixed": 17,
+    "spaces": 2031,
+    "tabs": 232
+  },
+  "NCL": {
+    "bytes": 44473921,
+    "files": 5685,
+    "lines": 1136636,
+    "mixed": 23124,
+    "spaces": 563924,
+    "tabs": 116750
+  },
+  "NSIS": {
+    "bytes": 355424029,
+    "files": 48053,
+    "lines": 9764373,
+    "mixed": 25255,
+    "spaces": 3840577,
+    "tabs": 1216274
+  },
+  "Nemerle": {
+    "bytes": 269771993,
+    "files": 5980,
+    "lines": 2099672,
+    "mixed": 6959,
+    "spaces": 440638,
+    "tabs": 72568
+  },
+  "NetLinx": {
+    "bytes": 60755139,
+    "files": 2362,
+    "lines": 873427,
+    "mixed": 32128,
+    "spaces": 167871,
+    "tabs": 193155
+  },
+  "NetLogo": {
+    "bytes": 126411338,
+    "files": 5220,
+    "lines": 4742380,
+    "mixed": 208,
+    "spaces": 1138108,
+    "tabs": 555
+  },
+  "NewLisp": {
+    "bytes": 293165947,
+    "files": 5624,
+    "lines": 13813753,
+    "mixed": 17902,
+    "spaces": 128680,
+    "tabs": 76292
+  },
+  "Nginx": {
+    "bytes": 40613,
+    "files": 25,
+    "lines": 1376,
+    "mixed": 0,
+    "spaces": 842,
+    "tabs": 1
+  },
+  "Nimrod": {
+    "bytes": 82242239,
+    "files": 10542,
+    "lines": 2108057,
+    "mixed": 20,
+    "spaces": 1350375,
+    "tabs": 160
+  },
+  "Ninja": {
+    "bytes": 36021988,
+    "files": 1071,
+    "lines": 299867,
+    "mixed": 4,
+    "spaces": 138170,
+    "tabs": 44
+  },
+  "Nit": {
+    "bytes": 3405432,
+    "files": 2614,
+    "lines": 73955,
+    "mixed": 389,
+    "spaces": 6479,
+    "tabs": 41101
+  },
+  "Nix": {
+    "bytes": 177150285,
+    "files": 31130,
+    "lines": 3408853,
+    "mixed": 4004,
+    "spaces": 2643517,
+    "tabs": 21358
+  },
+  "Nu": {
+    "bytes": 5425916,
+    "files": 931,
+    "lines": 89957,
+    "mixed": 331,
+    "spaces": 49363,
+    "tabs": 2148
+  },
+  "NumPy": {
+    "bytes": 432521977,
+    "files": 30,
+    "lines": 1422059,
+    "mixed": 15,
+    "spaces": 4004,
+    "tabs": 3951
+  },
+  "OCaml": {
+    "bytes": 2452827117,
+    "files": 282676,
+    "lines": 59672472,
+    "mixed": 1404178,
+    "spaces": 35670841,
+    "tabs": 3015628
+  },
+  "ObjDump": {
+    "bytes": 463312347,
+    "files": 446,
+    "lines": 11065298,
+    "mixed": 18857,
+    "spaces": 9587455,
+    "tabs": 171552
+  },
+  "Objective-C": {
+    "bytes": 88916957446,
+    "files": 18265232,
+    "lines": 2464602415,
+    "mixed": 6543286,
+    "spaces": 1082544575,
+    "tabs": 233752632
+  },
+  "Objective-C++": {
+    "bytes": 5389371459,
+    "files": 283109,
+    "lines": 245436204,
+    "mixed": 243148,
+    "spaces": 45098884,
+    "tabs": 7890074
+  },
+  "Objective-J": {
+    "bytes": 1393464660,
+    "files": 11973,
+    "lines": 29098185,
+    "mixed": 41223,
+    "spaces": 8011588,
+    "tabs": 357760
+  },
+  "Omgrofl": {
+    "bytes": 11951,
+    "files": 36,
+    "lines": 951,
+    "mixed": 0,
+    "spaces": 163,
+    "tabs": 0
+  },
+  "Opa": {
+    "bytes": 11499689,
+    "files": 1363,
+    "lines": 275003,
+    "mixed": 2021,
+    "spaces": 190681,
+    "tabs": 10890
+  },
+  "Opal": {
+    "bytes": 57274,
+    "files": 61,
+    "lines": 2367,
+    "mixed": 1,
+    "spaces": 999,
+    "tabs": 682
+  },
+  "OpenCL": {
+    "bytes": 480743561,
+    "files": 38822,
+    "lines": 11650152,
+    "mixed": 430712,
+    "spaces": 4319447,
+    "tabs": 3615212
+  },
+  "OpenEdge ABL": {
+    "bytes": 48545592678,
+    "files": 317562,
+    "lines": 1815946096,
+    "mixed": 178750,
+    "spaces": 22096711,
+    "tabs": 1684546
+  },
+  "OpenSCAD": {
+    "bytes": 299057210,
+    "files": 37485,
+    "lines": 5335084,
+    "mixed": 40387,
+    "spaces": 1587702,
+    "tabs": 1871535
+  },
+  "Org": {
+    "bytes": 2876670269,
+    "files": 124572,
+    "lines": 50215059,
+    "mixed": 179866,
+    "spaces": 16363542,
+    "tabs": 1423234
+  },
+  "Ox": {
+    "bytes": 1875967,
+    "files": 249,
+    "lines": 48509,
+    "mixed": 768,
+    "spaces": 4269,
+    "tabs": 19183
+  },
+  "Oxygene": {
+    "bytes": 676619,
+    "files": 126,
+    "lines": 15151,
+    "mixed": 0,
+    "spaces": 14796,
+    "tabs": 0
+  },
+  "Oz": {
+    "bytes": 29538720,
+    "files": 6263,
+    "lines": 1079547,
+    "mixed": 271666,
+    "spaces": 457410,
+    "tabs": 54208
+  },
+  "PAWN": {
+    "bytes": 276988731,
+    "files": 6797,
+    "lines": 5609461,
+    "mixed": 615285,
+    "spaces": 512951,
+    "tabs": 3253457
+  },
+  "PHP": {
+    "bytes": 1069618433872,
+    "files": 163013141,
+    "lines": 31515962120,
+    "mixed": 1464277369,
+    "spaces": 15795790172,
+    "tabs": 7712560467
+  },
+  "PLSQL": {
+    "bytes": 12908170188,
+    "files": 56286,
+    "lines": 157013551,
+    "mixed": 586693,
+    "spaces": 22040980,
+    "tabs": 4618326
+  },
+  "PLpgSQL": {
+    "bytes": 41955179614,
+    "files": 86875,
+    "lines": 197704075,
+    "mixed": 416487,
+    "spaces": 32193824,
+    "tabs": 10280646
+  },
+  "POV-Ray SDL": {
+    "bytes": 2111195266,
+    "files": 6402,
+    "lines": 35353865,
+    "mixed": 435681,
+    "spaces": 5414125,
+    "tabs": 6025357
+  },
+  "Pan": {
+    "bytes": 17482662,
+    "files": 4070,
+    "lines": 296557,
+    "mixed": 1958,
+    "spaces": 68328,
+    "tabs": 11172
+  },
+  "Papyrus": {
+    "bytes": 222751301,
+    "files": 4263,
+    "lines": 1319953,
+    "mixed": 2257,
+    "spaces": 68095,
+    "tabs": 233206
+  },
+  "Parrot": {
+    "bytes": 74205,
+    "files": 28,
+    "lines": 3265,
+    "mixed": 12,
+    "spaces": 1008,
+    "tabs": 674
+  },
+  "Parrot Assembly": {
+    "bytes": 910414,
+    "files": 925,
+    "lines": 45377,
+    "mixed": 118,
+    "spaces": 5862,
+    "tabs": 12401
+  },
+  "Parrot Internal Representation": {
+    "bytes": 134199236,
+    "files": 3338,
+    "lines": 3132368,
+    "mixed": 633,
+    "spaces": 1344049,
+    "tabs": 23247
+  },
+  "Pascal": {
+    "bytes": 12183316750,
+    "files": 456652,
+    "lines": 282910453,
+    "mixed": 401256,
+    "spaces": 220987844,
+    "tabs": 2147238
+  },
+  "Perl": {
+    "bytes": 22388053863,
+    "files": 2142784,
+    "lines": 625898401,
+    "mixed": 7824711,
+    "spaces": 167833068,
+    "tabs": 59675994
+  },
+  "Perl6": {
+    "bytes": 5275620093,
+    "files": 296179,
+    "lines": 154680102,
+    "mixed": 3515022,
+    "spaces": 32667929,
+    "tabs": 33681996
+  },
+  "Pickle": {
+    "bytes": 98160945130,
+    "files": 51624,
+    "lines": 2396749124,
+    "mixed": 112878,
+    "spaces": 3593902,
+    "tabs": 782583
+  },
+  "PicoLisp": {
+    "bytes": 202075296,
+    "files": 15465,
+    "lines": 1805129,
+    "mixed": 25537,
+    "spaces": 404561,
+    "tabs": 54356
+  },
+  "PigLatin": {
+    "bytes": 86543341,
+    "files": 11358,
+    "lines": 683435,
+    "mixed": 3883,
+    "spaces": 109323,
+    "tabs": 29363
+  },
+  "Pike": {
+    "bytes": 58491876,
+    "files": 7623,
+    "lines": 2127126,
+    "mixed": 181447,
+    "spaces": 1097638,
+    "tabs": 148357
+  },
+  "Pod": {
+    "bytes": 1880934111,
+    "files": 89385,
+    "lines": 38472721,
+    "mixed": 90217,
+    "spaces": 4709152,
+    "tabs": 575195
+  },
+  "PogoScript": {
+    "bytes": 3255064,
+    "files": 1842,
+    "lines": 98328,
+    "mixed": 24,
+    "spaces": 73368,
+    "tabs": 77
+  },
+  "Pony": {
+    "bytes": 6135459,
+    "files": 1362,
+    "lines": 133326,
+    "mixed": 124,
+    "spaces": 96410,
+    "tabs": 459
+  },
+  "PostScript": {
+    "bytes": 239815670287,
+    "files": 455183,
+    "lines": 4525929920,
+    "mixed": 13312486,
+    "spaces": 163608415,
+    "tabs": 266773025
+  },
+  "PowerShell": {
+    "bytes": 7914681238,
+    "files": 944914,
+    "lines": 151034438,
+    "mixed": 318919,
+    "spaces": 55765153,
+    "tabs": 6608706
+  },
+  "Processing": {
+    "bytes": 1630555034,
+    "files": 450205,
+    "lines": 54368067,
+    "mixed": 294448,
+    "spaces": 34855148,
+    "tabs": 2141810
+  },
+  "Prolog": {
+    "bytes": 1374060758,
+    "files": 65184,
+    "lines": 33796183,
+    "mixed": 6866752,
+    "spaces": 2622925,
+    "tabs": 2577011
+  },
+  "Propeller Spin": {
+    "bytes": 150371006,
+    "files": 6428,
+    "lines": 2399423,
+    "mixed": 1157,
+    "spaces": 864236,
+    "tabs": 16567
+  },
+  "Protocol Buffer": {
+    "bytes": 595422759,
+    "files": 96555,
+    "lines": 13776050,
+    "mixed": 17450,
+    "spaces": 6173024,
+    "tabs": 1886449
+  },
+  "Public Key": {
+    "bytes": 1780096686,
+    "files": 92768,
+    "lines": 6775593,
+    "mixed": 286,
+    "spaces": 86166,
+    "tabs": 42766
+  },
+  "Puppet": {
+    "bytes": 4030404188,
+    "files": 1298320,
+    "lines": 112182734,
+    "mixed": 79456,
+    "spaces": 62399643,
+    "tabs": 928497
+  },
+  "Pure Data": {
+    "bytes": 1805971615,
+    "files": 62569,
+    "lines": 30778099,
+    "mixed": 58888,
+    "spaces": 174046,
+    "tabs": 88302
+  },
+  "PureBasic": {
+    "bytes": 17131191506,
+    "files": 173703,
+    "lines": 136060609,
+    "mixed": 27672,
+    "spaces": 1420873,
+    "tabs": 2632893
+  },
+  "PureScript": {
+    "bytes": 25132798,
+    "files": 9683,
+    "lines": 779012,
+    "mixed": 5572,
+    "spaces": 325931,
+    "tabs": 12286
+  },
+  "Python": {
+    "bytes": 241652506974,
+    "files": 34234808,
+    "lines": 6140843703,
+    "mixed": 5944925,
+    "spaces": 4126542776,
+    "tabs": 178522473
+  },
+  "Python traceback": {
+    "bytes": 23148,
+    "files": 38,
+    "lines": 485,
+    "mixed": 0,
+    "spaces": 366,
+    "tabs": 0
+  },
+  "QML": {
+    "bytes": 632185913,
+    "files": 154561,
+    "lines": 18619428,
+    "mixed": 54301,
+    "spaces": 14031658,
+    "tabs": 371862
+  },
+  "QMake": {
+    "bytes": 2863937379,
+    "files": 72506,
+    "lines": 6578711,
+    "mixed": 2783,
+    "spaces": 1165115,
+    "tabs": 243087
+  },
+  "R": {
+    "bytes": 8373246203,
+    "files": 1529756,
+    "lines": 175942866,
+    "mixed": 1079581,
+    "spaces": 66056369,
+    "tabs": 11996316
+  },
+  "RAML": {
+    "bytes": 250529155,
+    "files": 6498,
+    "lines": 5547253,
+    "mixed": 306170,
+    "spaces": 5171646,
+    "tabs": 3130
+  },
+  "RDoc": {
+    "bytes": 2681619955,
+    "files": 739241,
+    "lines": 78237719,
+    "mixed": 40648,
+    "spaces": 24511361,
+    "tabs": 79853
+  },
+  "REALbasic": {
+    "bytes": 104320824,
+    "files": 4594,
+    "lines": 1050838,
+    "mixed": 376698,
+    "spaces": 187676,
+    "tabs": 318481
+  },
+  "RHTML": {
+    "bytes": 258649241,
+    "files": 275244,
+    "lines": 7402486,
+    "mixed": 177805,
+    "spaces": 3841346,
+    "tabs": 759582
+  },
+  "RMarkdown": {
+    "bytes": 1033882783,
+    "files": 137599,
+    "lines": 25708280,
+    "mixed": 21447,
+    "spaces": 4334972,
+    "tabs": 113957
+  },
+  "Racket": {
+    "bytes": 1007419223,
+    "files": 101057,
+    "lines": 26027296,
+    "mixed": 181356,
+    "spaces": 11847733,
+    "tabs": 60172
+  },
+  "Ragel in Ruby Host": {
+    "bytes": 313348510,
+    "files": 36968,
+    "lines": 10758053,
+    "mixed": 14553,
+    "spaces": 5824732,
+    "tabs": 952173
+  },
+  "Raw token data": {
+    "bytes": 54808875006,
+    "files": 58974,
+    "lines": 406866291,
+    "mixed": 19540,
+    "spaces": 7238026,
+    "tabs": 15111243
+  },
+  "Rebol": {
+    "bytes": 129502899,
+    "files": 4441,
+    "lines": 1531992,
+    "mixed": 12837,
+    "spaces": 181821,
+    "tabs": 512039
+  },
+  "Red": {
+    "bytes": 53552295,
+    "files": 2797,
+    "lines": 1108709,
+    "mixed": 3056,
+    "spaces": 674425,
+    "tabs": 159951
+  },
+  "Redcode": {
+    "bytes": 28291987,
+    "files": 748,
+    "lines": 197039,
+    "mixed": 476,
+    "spaces": 17090,
+    "tabs": 11880
+  },
+  "Ren'Py": {
+    "bytes": 74344942,
+    "files": 3976,
+    "lines": 1371308,
+    "mixed": 18,
+    "spaces": 526580,
+    "tabs": 201
+  },
+  "RenderScript": {
+    "bytes": 51768129,
+    "files": 6842,
+    "lines": 1091187,
+    "mixed": 4781,
+    "spaces": 590660,
+    "tabs": 7948
+  },
+  "RobotFramework": {
+    "bytes": 34734921,
+    "files": 10770,
+    "lines": 743551,
+    "mixed": 181,
+    "spaces": 382485,
+    "tabs": 7753
+  },
+  "Rouge": {
+    "bytes": 56413024,
+    "files": 1029,
+    "lines": 301312,
+    "mixed": 248,
+    "spaces": 169420,
+    "tabs": 16430
+  },
+  "Ruby": {
+    "bytes": 98419205848,
+    "files": 49498725,
+    "lines": 2965826058,
+    "mixed": 6419455,
+    "spaces": 2141818861,
+    "tabs": 77159434
+  },
+  "Rust": {
+    "bytes": 915208967,
+    "files": 138934,
+    "lines": 25826379,
+    "mixed": 54230,
+    "spaces": 17069393,
+    "tabs": 950777
+  },
+  "SAS": {
+    "bytes": 222080184,
+    "files": 18642,
+    "lines": 11660538,
+    "mixed": 64214,
+    "spaces": 1514522,
+    "tabs": 761677
+  },
+  "SCSS": {
+    "bytes": 51935219581,
+    "files": 13505118,
+    "lines": 7473992617,
+    "mixed": 3433454,
+    "spaces": 622626426,
+    "tabs": 121130490
+  },
+  "SMT": {
+    "bytes": 781754445,
+    "files": 6005,
+    "lines": 7969028,
+    "mixed": 11454,
+    "spaces": 420637,
+    "tabs": 411013
+  },
+  "SPARQL": {
+    "bytes": 120645166,
+    "files": 43242,
+    "lines": 856205,
+    "mixed": 7419,
+    "spaces": 170745,
+    "tabs": 30421
+  },
+  "SQF": {
+    "bytes": 1986309516,
+    "files": 598143,
+    "lines": 56487234,
+    "mixed": 501248,
+    "spaces": 7367006,
+    "tabs": 24339547
+  },
+  "SQL": {
+    "bytes": 331086445904,
+    "files": 2309104,
+    "lines": 2086841334,
+    "mixed": 2313004,
+    "spaces": 170108721,
+    "tabs": 176410717
+  },
+  "SQLPL": {
+    "bytes": 1793641879,
+    "files": 4815,
+    "lines": 10344936,
+    "mixed": 23226,
+    "spaces": 582617,
+    "tabs": 339978
+  },
+  "SRecode Template": {
+    "bytes": 1007237931,
+    "files": 33956,
+    "lines": 48889808,
+    "mixed": 4256,
+    "spaces": 180886,
+    "tabs": 10364
+  },
+  "STON": {
+    "bytes": 837873,
+    "files": 673,
+    "lines": 16439,
+    "mixed": 421,
+    "spaces": 11669,
+    "tabs": 1882
+  },
+  "SVG": {
+    "bytes": 544613273822,
+    "files": 8308226,
+    "lines": 3602486856,
+    "mixed": 8614478,
+    "spaces": 1202651417,
+    "tabs": 320085402
+  },
+  "Sage": {
+    "bytes": 117019403,
+    "files": 4059,
+    "lines": 967040,
+    "mixed": 2020,
+    "spaces": 242890,
+    "tabs": 48738
+  },
+  "Sass": {
+    "bytes": 858478867,
+    "files": 506826,
+    "lines": 37062784,
+    "mixed": 11196,
+    "spaces": 17727679,
+    "tabs": 7035312
+  },
+  "Scala": {
+    "bytes": 5776934056,
+    "files": 1821775,
+    "lines": 159767267,
+    "mixed": 943464,
+    "spaces": 112328176,
+    "tabs": 3567725
+  },
+  "Scaml": {
+    "bytes": 600048,
+    "files": 1133,
+    "lines": 20084,
+    "mixed": 0,
+    "spaces": 11149,
+    "tabs": 857
+  },
+  "Scheme": {
+    "bytes": 2526464900,
+    "files": 257494,
+    "lines": 57791623,
+    "mixed": 3300105,
+    "spaces": 24691186,
+    "tabs": 3853754
+  },
+  "Scilab": {
+    "bytes": 1368292989,
+    "files": 135471,
+    "lines": 53952315,
+    "mixed": 14637,
+    "spaces": 2609297,
+    "tabs": 215950
+  },
+  "Self": {
+    "bytes": 251361271,
+    "files": 1024,
+    "lines": 1360751,
+    "mixed": 4686,
+    "spaces": 394089,
+    "tabs": 17040
+  },
+  "Shell": {
+    "bytes": 23103745048,
+    "files": 4717574,
+    "lines": 538269676,
+    "mixed": 80926934,
+    "spaces": 143329312,
+    "tabs": 69774973
+  },
+  "ShellSession": {
+    "bytes": 67326,
+    "files": 115,
+    "lines": 2237,
+    "mixed": 14,
+    "spaces": 191,
+    "tabs": 2
+  },
+  "Shen": {
+    "bytes": 2253296,
+    "files": 726,
+    "lines": 68102,
+    "mixed": 793,
+    "spaces": 39799,
+    "tabs": 268
+  },
+  "Slash": {
+    "bytes": 707519927,
+    "files": 13378,
+    "lines": 3549719,
+    "mixed": 26326,
+    "spaces": 581191,
+    "tabs": 95054
+  },
+  "Slim": {
+    "bytes": 253577621,
+    "files": 253878,
+    "lines": 6000086,
+    "mixed": 38598,
+    "spaces": 4315328,
+    "tabs": 219770
+  },
+  "Smali": {
+    "bytes": 1785058422,
+    "files": 149880,
+    "lines": 66721107,
+    "mixed": 345,
+    "spaces": 38229254,
+    "tabs": 93517
+  },
+  "Smalltalk": {
+    "bytes": 21930133,
+    "files": 606,
+    "lines": 130403,
+    "mixed": 257,
+    "spaces": 1164,
+    "tabs": 69180
+  },
+  "Smarty": {
+    "bytes": 9253456349,
+    "files": 2071259,
+    "lines": 199219453,
+    "mixed": 3426501,
+    "spaces": 107737857,
+    "tabs": 46679936
+  },
+  "SourcePawn": {
+    "bytes": 544566158,
+    "files": 21970,
+    "lines": 10983336,
+    "mixed": 34464,
+    "spaces": 820874,
+    "tabs": 3808704
+  },
+  "Squirrel": {
+    "bytes": 1089272217,
+    "files": 8540,
+    "lines": 4952799,
+    "mixed": 17893,
+    "spaces": 491828,
+    "tabs": 581578
+  },
+  "Stan": {
+    "bytes": 19932958,
+    "files": 3831,
+    "lines": 1434078,
+    "mixed": 2298,
+    "spaces": 187594,
+    "tabs": 16496
+  },
+  "Standard ML": {
+    "bytes": 911658992,
+    "files": 76548,
+    "lines": 14790919,
+    "mixed": 1522132,
+    "spaces": 6126534,
+    "tabs": 1444646
+  },
+  "Stata": {
+    "bytes": 614484974,
+    "files": 34338,
+    "lines": 11033911,
+    "mixed": 321831,
+    "spaces": 1269011,
+    "tabs": 2566705
+  },
+  "Stylus": {
+    "bytes": 896352372,
+    "files": 547766,
+    "lines": 42042536,
+    "mixed": 34273,
+    "spaces": 22267284,
+    "tabs": 3961625
+  },
+  "SuperCollider": {
+    "bytes": 1252365066,
+    "files": 72692,
+    "lines": 23820695,
+    "mixed": 794315,
+    "spaces": 6130176,
+    "tabs": 8257334
+  },
+  "Swift": {
+    "bytes": 8344091689,
+    "files": 2114147,
+    "lines": 233232862,
+    "mixed": 98613,
+    "spaces": 166034925,
+    "tabs": 6956619
+  },
+  "SystemVerilog": {
+    "bytes": 757216374,
+    "files": 64085,
+    "lines": 16401779,
+    "mixed": 310713,
+    "spaces": 6977491,
+    "tabs": 2248137
+  },
+  "TLA": {
+    "bytes": 17460962,
+    "files": 2398,
+    "lines": 476561,
+    "mixed": 459,
+    "spaces": 262020,
+    "tabs": 1035
+  },
+  "TOML": {
+    "bytes": 40596226,
+    "files": 49655,
+    "lines": 990815,
+    "mixed": 2427,
+    "spaces": 187311,
+    "tabs": 48502
+  },
+  "TXL": {
+    "bytes": 4863035,
+    "files": 404,
+    "lines": 99373,
+    "mixed": 1482,
+    "spaces": 5649,
+    "tabs": 20606
+  },
+  "Tcl": {
+    "bytes": 3919469044,
+    "files": 276345,
+    "lines": 92698927,
+    "mixed": 4233357,
+    "spaces": 27633355,
+    "tabs": 11734710
+  },
+  "Tcsh": {
+    "bytes": 259815319,
+    "files": 33803,
+    "lines": 2505933,
+    "mixed": 19416,
+    "spaces": 802099,
+    "tabs": 189118
+  },
+  "TeX": {
+    "bytes": 25907142701,
+    "files": 1438249,
+    "lines": 483284637,
+    "mixed": 2031938,
+    "spaces": 129928453,
+    "tabs": 36466945
+  },
+  "Tea": {
+    "bytes": 7035105,
+    "files": 1435,
+    "lines": 176354,
+    "mixed": 310,
+    "spaces": 57714,
+    "tabs": 13911
+  },
+  "Terra": {
+    "bytes": 3415766,
+    "files": 750,
+    "lines": 120166,
+    "mixed": 2483,
+    "spaces": 44663,
+    "tabs": 28826
+  },
+  "Text": {
+    "bytes": 3503215094301,
+    "files": 37290831,
+    "lines": 61712272066,
+    "mixed": 72958236,
+    "spaces": 4430187592,
+    "tabs": 716043892
+  },
+  "Textile": {
+    "bytes": 1746416102,
+    "files": 125576,
+    "lines": 39207666,
+    "mixed": 37481,
+    "spaces": 5687036,
+    "tabs": 149040
+  },
+  "Thrift": {
+    "bytes": 54277949,
+    "files": 16613,
+    "lines": 1798601,
+    "mixed": 10498,
+    "spaces": 1062696,
+    "tabs": 53439
+  },
+  "Turing": {
+    "bytes": 289023760,
+    "files": 3759,
+    "lines": 4723789,
+    "mixed": 47068,
+    "spaces": 2005095,
+    "tabs": 80790
+  },
+  "Turtle": {
+    "bytes": 18366670448,
+    "files": 133864,
+    "lines": 315715407,
+    "mixed": 1517640,
+    "spaces": 128511335,
+    "tabs": 50293331
+  },
+  "Twig": {
+    "bytes": 2502662517,
+    "files": 1294251,
+    "lines": 61158526,
+    "mixed": 677828,
+    "spaces": 40042832,
+    "tabs": 3553339
+  },
+  "TypeScript": {
+    "bytes": 14476146738,
+    "files": 993801,
+    "lines": 212705904,
+    "mixed": 496004,
+    "spaces": 65685096,
+    "tabs": 6803769
+  },
+  "Unified Parallel C": {
+    "bytes": 16457369,
+    "files": 199,
+    "lines": 1077707,
+    "mixed": 1393,
+    "spaces": 12714,
+    "tabs": 6078
+  },
+  "Unity3D Asset": {
+    "bytes": 770930254429,
+    "files": 21403996,
+    "lines": 5349812535,
+    "mixed": 48171,
+    "spaces": 3038638380,
+    "tabs": 11624248
+  },
+  "Uno": {
+    "bytes": 8143196,
+    "files": 1290,
+    "lines": 214033,
+    "mixed": 8259,
+    "spaces": 65869,
+    "tabs": 39846
+  },
+  "UnrealScript": {
+    "bytes": 171211022,
+    "files": 20781,
+    "lines": 3514224,
+    "mixed": 34330,
+    "spaces": 526156,
+    "tabs": 1085783
+  },
+  "UrWeb": {
+    "bytes": 25933018,
+    "files": 1327,
+    "lines": 438207,
+    "mixed": 1595,
+    "spaces": 58508,
+    "tabs": 3019
+  },
+  "VCL": {
+    "bytes": 23309102,
+    "files": 4763,
+    "lines": 670823,
+    "mixed": 2704,
+    "spaces": 449605,
+    "tabs": 26276
+  },
+  "VHDL": {
+    "bytes": 22099614607,
+    "files": 342229,
+    "lines": 352777174,
+    "mixed": 1903208,
+    "spaces": 85235979,
+    "tabs": 25251096
+  },
+  "Vala": {
+    "bytes": 287866014,
+    "files": 35024,
+    "lines": 8154917,
+    "mixed": 190454,
+    "spaces": 2661357,
+    "tabs": 4235349
+  },
+  "Verilog": {
+    "bytes": 6845330118,
+    "files": 290974,
+    "lines": 176099503,
+    "mixed": 2909289,
+    "spaces": 100873067,
+    "tabs": 18364649
+  },
+  "VimL": {
+    "bytes": 8488756217,
+    "files": 999721,
+    "lines": 225024978,
+    "mixed": 863021,
+    "spaces": 100367414,
+    "tabs": 18250240
+  },
+  "Visual Basic": {
+    "bytes": 9291635200,
+    "files": 801915,
+    "lines": 177821837,
+    "mixed": 241342,
+    "spaces": 131397349,
+    "tabs": 6389468
+  },
+  "Volt": {
+    "bytes": 51876697,
+    "files": 20705,
+    "lines": 1329781,
+    "mixed": 38971,
+    "spaces": 725221,
+    "tabs": 248840
+  },
+  "Vue": {
+    "bytes": 195646496,
+    "files": 37092,
+    "lines": 3797032,
+    "mixed": 43838,
+    "spaces": 2548659,
+    "tabs": 307033
+  },
+  "Wavefront Material": {
+    "bytes": 126233907,
+    "files": 90987,
+    "lines": 5083167,
+    "mixed": 30296,
+    "spaces": 286581,
+    "tabs": 839797
+  },
+  "Wavefront Object": {
+    "bytes": 341466013833,
+    "files": 752691,
+    "lines": 6242428396,
+    "mixed": 20269,
+    "spaces": 16468439,
+    "tabs": 1451904
+  },
+  "Web Ontology Language": {
+    "bytes": 29289350025,
+    "files": 30695,
+    "lines": 439247843,
+    "mixed": 281082,
+    "spaces": 352502526,
+    "tabs": 6477509
+  },
+  "WebIDL": {
+    "bytes": 973644,
+    "files": 386,
+    "lines": 27379,
+    "mixed": 7,
+    "spaces": 18217,
+    "tabs": 136
+  },
+  "World of Warcraft Addon Data": {
+    "bytes": 15260838,
+    "files": 25936,
+    "lines": 501371,
+    "mixed": 49,
+    "spaces": 34843,
+    "tabs": 63
+  },
+  "X10": {
+    "bytes": 63694408,
+    "files": 4430,
+    "lines": 957071,
+    "mixed": 69518,
+    "spaces": 186746,
+    "tabs": 323792
+  },
+  "XC": {
+    "bytes": 64949728,
+    "files": 9443,
+    "lines": 1706768,
+    "mixed": 14126,
+    "spaces": 1383456,
+    "tabs": 89001
+  },
+  "XML": {
+    "bytes": 2479319068034,
+    "files": 56930249,
+    "lines": 41546961517,
+    "mixed": 158432895,
+    "spaces": 35423202049,
+    "tabs": 2794001951
+  },
+  "XPages": {
+    "bytes": 3663123,
+    "files": 1723,
+    "lines": 91272,
+    "mixed": 3467,
+    "spaces": 64004,
+    "tabs": 13838
+  },
+  "XProc": {
+    "bytes": 294879419,
+    "files": 4192,
+    "lines": 3705531,
+    "mixed": 7419,
+    "spaces": 246845,
+    "tabs": 99130
+  },
+  "XQuery": {
+    "bytes": 240698263,
+    "files": 42639,
+    "lines": 5660314,
+    "mixed": 70402,
+    "spaces": 3327971,
+    "tabs": 167125
+  },
+  "XS": {
+    "bytes": 568181410,
+    "files": 22706,
+    "lines": 16635897,
+    "mixed": 396862,
+    "spaces": 10692902,
+    "tabs": 1477778
+  },
+  "XSLT": {
+    "bytes": 5811162661,
+    "files": 489085,
+    "lines": 141414854,
+    "mixed": 3530121,
+    "spaces": 84761632,
+    "tabs": 26640522
+  },
+  "Xojo": {
+    "bytes": 57883352,
+    "files": 6138,
+    "lines": 2082375,
+    "mixed": 678156,
+    "spaces": 326502,
+    "tabs": 933849
+  },
+  "Xtend": {
+    "bytes": 106630473,
+    "files": 39175,
+    "lines": 3249613,
+    "mixed": 161893,
+    "spaces": 610013,
+    "tabs": 1672437
+  },
+  "YAML": {
+    "bytes": 45599096520,
+    "files": 7783209,
+    "lines": 1289865830,
+    "mixed": 518325,
+    "spaces": 1026877815,
+    "tabs": 3180666
+  },
+  "YANG": {
+    "bytes": 79049017,
+    "files": 9879,
+    "lines": 2570732,
+    "mixed": 23004,
+    "spaces": 2276850,
+    "tabs": 32546
+  },
+  "Yacc": {
+    "bytes": 1292104485,
+    "files": 54135,
+    "lines": 31269033,
+    "mixed": 1630374,
+    "spaces": 10821183,
+    "tabs": 6633253
+  },
+  "Zephir": {
+    "bytes": 16123047,
+    "files": 3878,
+    "lines": 598789,
+    "mixed": 65781,
+    "spaces": 281565,
+    "tabs": 145330
+  },
+  "Zimpl": {
+    "bytes": 7477230,
+    "files": 1952,
+    "lines": 84451,
+    "mixed": 116,
+    "spaces": 22674,
+    "tabs": 1555
+  },
+  "desktop": {
+    "bytes": 126365981,
+    "files": 86614,
+    "lines": 3013517,
+    "mixed": 240,
+    "spaces": 15186,
+    "tabs": 1255
+  },
+  "eC": {
+    "bytes": 241339659,
+    "files": 17890,
+    "lines": 2135128,
+    "mixed": 7140,
+    "spaces": 590532,
+    "tabs": 186308
+  },
+  "edn": {
+    "bytes": 1378324247,
+    "files": 24052,
+    "lines": 9411418,
+    "mixed": 25989,
+    "spaces": 8227117,
+    "tabs": 955
+  },
+  "fish": {
+    "bytes": 197984887,
+    "files": 34716,
+    "lines": 1875786,
+    "mixed": 1530,
+    "spaces": 1022240,
+    "tabs": 56333
+  },
+  "mupad": {
+    "bytes": 2183233079,
+    "files": 12182,
+    "lines": 6706610,
+    "mixed": 968,
+    "spaces": 99126,
+    "tabs": 22506
+  },
+  "nesC": {
+    "bytes": 52186353568,
+    "files": 366691,
+    "lines": 198079450,
+    "mixed": 705828,
+    "spaces": 25750906,
+    "tabs": 4701482
+  },
+  "ooc": {
+    "bytes": 10189858,
+    "files": 3658,
+    "lines": 343399,
+    "mixed": 2335,
+    "spaces": 172196,
+    "tabs": 65237
+  },
+  "reStructuredText": {
+    "bytes": 13861490199,
+    "files": 2251514,
+    "lines": 364306867,
+    "mixed": 580364,
+    "spaces": 121571813,
+    "tabs": 5357852
+  },
+  "wisp": {
+    "bytes": 8571864,
+    "files": 392,
+    "lines": 75564,
+    "mixed": 179,
+    "spaces": 27377,
+    "tabs": 1284
+  },
+  "xBase": {
+    "bytes": 526633219,
+    "files": 33312,
+    "lines": 16312778,
+    "mixed": 292895,
+    "spaces": 2631869,
+    "tabs": 2079031
+  }
+}
