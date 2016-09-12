@@ -40,4 +40,13 @@ svg {
 
 text {
 	-webkit-font-smoothing: antialiased;
+	pointer-events: none;
+}
+
+.github-fork-ribbon:before {
+    background-color: #fff;
+}
+
+.github-fork-ribbon:after {
+		color: #333;
 }

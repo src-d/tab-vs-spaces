@@ -31,9 +31,23 @@
 
   d3.json("tabs_spaces.json", function(json) {
     language_data = json;
+    show_stats("Text");
   });
 
-  var languageInfo = document.getElementById('lang-info');
+  var language_info = document.getElementById("lang-info");
+
+  function show_stats(language) {
+    language_info.style.display = "block";
+    document.getElementById("lang-title").innerHTML = language;
+    var data = language_data[language];
+    var norm = data["spaces"] + data["tabs"] + data["mixed"];
+    get_lang_td("files").innerHTML = format_number(data.files);
+    get_lang_td("loc").innerHTML = format_number(data.lines);
+    get_lang_td("bytes").innerHTML = format_number(data.bytes) + "B";
+    get_lang_td("spaces").innerHTML = format_number(data.spaces) + " (" + format_pct(data.spaces, norm) + ")";
+    get_lang_td("tabs").innerHTML = format_number(data.tabs) + " (" + format_pct(data.tabs, norm) + ")";
+    get_lang_td("mixed").innerHTML = format_number(data.mixed) + " (" + format_pct(data.mixed, norm) + ")";
+  }
 
   d3.xml("tabs_spaces.svg").mimeType("image/svg+xml").get(function(error, xml) {
     if (error) throw error;
@@ -42,16 +56,7 @@
       svg.attr("transform", d3.event.transform)
     })).select("g");
     d3.selectAll("#axes_1 > path").on("mouseenter", function() {
-      languageInfo.style.display = 'block';
       var language = language_index[((this.id.substring(1) - 2) / 3) >> 0];
-      document.getElementById("lang-title").innerHTML = language;
-      var data = language_data[language];
-      var norm = data["spaces"] + data["tabs"] + data["mixed"];
-      get_lang_td("files").innerHTML = format_number(data.files);
-      get_lang_td("loc").innerHTML = format_number(data.lines);
-      get_lang_td("bytes").innerHTML = format_number(data.bytes) + "B";
-      get_lang_td("spaces").innerHTML = format_number(data.spaces) + " (" + format_pct(data.spaces, norm) + ")";
-      get_lang_td("tabs").innerHTML = format_number(data.tabs) + " (" + format_pct(data.tabs, norm) + ")";
-      get_lang_td("mixed").innerHTML = format_number(data.mixed) + " (" + format_pct(data.mixed, norm) + ")";
+      show_stats(language);
     });
   });
