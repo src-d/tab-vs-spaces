@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Tabs and spaces in GitHub repositories</title>
-  <style>
-  svg {
-    width: 100%;
-  }
-  #lang-info {
-    position: fixed;
-    top: 0;
-    left: 0;
-  }
-  </style>
-</head>
-<body>
-  <div id="lang-info">
-    <h4 id="lang-title"></h4>
-    <table>
-      <tbody>
-        <tr id="lang-files"><td>Files</td><td></td></tr>
-        <tr id="lang-loc"><td>LOC</td><td></td></tr>
-        <tr id="lang-bytes"><td>Size</td><td></td></tr>
-        <tr id="lang-spaces"><td>Spaces</td><td></td></tr>
-        <tr id="lang-tabs"><td>Tabs</td><td></td></tr>
-        <tr id="lang-mixed"><td>Mixed</td><td></td></tr>
-      </tbody>
-    </table>
-  </div>
-  <footer></footer>
-  <script src="https://d3js.org/d3.v4.min.js"></script>
-  <script>
-  // adds Kilo, Mega, Giga, Tera suffixes
+// adds Kilo, Mega, Giga, Tera suffixes
   function format_number(n) {
     if (n < 1000) {
       return n + "";
@@ -65,6 +33,8 @@
     language_data = json;
   });
 
+  var languageInfo = document.getElementById('lang-info');
+
   d3.xml("tabs_spaces.svg").mimeType("image/svg+xml").get(function(error, xml) {
     if (error) throw error;
     document.body.appendChild(xml.documentElement);
@@ -72,6 +42,7 @@
       svg.attr("transform", d3.event.transform)
     })).select("g");
     d3.selectAll("#axes_1 > path").on("mouseenter", function() {
+      languageInfo.style.display = 'block';
       var language = language_index[((this.id.substring(1) - 2) / 3) >> 0];
       document.getElementById("lang-title").innerHTML = language;
       var data = language_data[language];
@@ -84,6 +55,3 @@
       get_lang_td("mixed").innerHTML = format_number(data.mixed) + " (" + format_pct(data.mixed, norm) + ")";
     });
   });
-  </script>
-</body>
-</html>
